@@ -1,0 +1,14 @@
+id,insurer_name_legal,insurer_name_common,price_transparency_url,price_transparency_url_status,supplemental_url,last_updated_date
+1,United Healthcare Services Inc.,United Healthcare,transparency-in-coverage.uhc.com,up,https://www.uhc.com/content/dam/uhcdotcom/en/HealthReform/PDF/Provisions/reform-external-transparancy-FAQs.pdf,2022-09-12
+2,Cigna Health Life Insurance Corporation,Cigna,https://www.cigna.com/legal/compliance/machine-readable-files,up,,2022-09-12
+3,Blue Cross Blue Shield of North Carolina,Blue Cross Blue Shield of North Carolina,https://www.bluecrossnc.com/about-us/policies-and-best-practices/transparency-coverage-mrf,up,https://pstage.bluecrossnc.com/about-us/policies-and-best-practices/transparency-coverage-mrf,2022-09-12
+4,Humana Inc.,Humana,https://developers.humana.com/Cost-Transparency,up,,2022-09-12
+5,Anthem Inc.,Anthem,https://www.anthem.com/machine-readable-file/search/,up,,2022-09-12
+6,Centene Corporation,Ambetter,https://www.centene.com/price-transparency-files.html,up,,2022-09-12
+7,Health Care Service Corporation,HCSC,https://www.hcsc.com/who-we-are/regulatory-disclosures,up,,2022-09-12
+8,Kaiser Permanente,Kaiser Permanente,https://healthy.kaiserpermanente.org/front-door/machine-readable,up,https://healthy.kaiserpermanente.org/pages/technical-information,2022-09-12
+9,PacificSource Health Plans,PacificSource,https://pacificsource.com/resources/json-files,up,,2022-09-12
+10,Blue Cross Blue Shield of Massachusetts,Blue Cross Blue Shield of Massachusetts,https://transparency-in-coverage.bluecrossma.com/,up,,2022-09-12
+11,University of Pittsburgh Medical Center,UPMC Health Plan,https://www.upmchealthplan.com/transparency-in-coverage/mrf/,up,,2022-09-12
+12,,Geisinger Health Plan,https://www.geisinger.org/health-plan/nosurprisesact,up,,2022-09-12
+13,Aetna Life Insurance Company,Aetna,https://www.aetna.com/individuals-families/member-rights-resources/rights/disclosure-information.html,up,,2022-09-12

@@ -24,6 +24,13 @@ fn get_schema(schema_name: &str) -> Result<&[DataCol], Box<dyn Error>> {
             // Columns
             cols = &[
                 DataCol {
+                    name: "ccn",
+                    required: false,
+                    enum_type: false,
+                    enum_values: None,
+                    date_type: false,
+                },
+                DataCol {
                     name: "reporting_entity_name_legal",
                     required: false,
                     enum_type: false,
@@ -238,6 +245,60 @@ fn get_schema(schema_name: &str) -> Result<&[DataCol], Box<dyn Error>> {
                 DataCol {
                     name: "last_updated_date",
                     required: true,
+                    enum_type: false,
+                    enum_values: None,
+                    date_type: true,
+                },
+            ];
+        }
+        "insurer_homepages" => {
+            // Columns
+            cols = &[
+                DataCol {
+                    name: "id",
+                    required: true,
+                    enum_type: false,
+                    enum_values: None,
+                    date_type: false,
+                },
+                DataCol {
+                    name: "insurer_name_legal",
+                    required: false,
+                    enum_type: false,
+                    enum_values: None,
+                    date_type: false,
+                },
+                DataCol {
+                    name: "insurer_name_common",
+                    required: true,
+                    enum_type: false,
+                    enum_values: None,
+                    date_type: false,
+                },
+                DataCol {
+                    name: "price_transparency_url",
+                    required: true,
+                    enum_type: false,
+                    enum_values: None,
+                    date_type: false,
+                },
+                DataCol {
+                    name: "price_transparency_url_status",
+                    required: true,
+                    enum_type: true,
+                    enum_values: Some(&["up", "down", "corrupt"]),
+                    date_type: false,
+                },
+                DataCol {
+                    name: "supplemental_url",
+                    required: false,
+                    enum_type: false,
+                    enum_values: None,
+                    date_type: false,
+                },
+                DataCol {
+                    name: "last_updated_date",
+                    required: false,
                     enum_type: false,
                     enum_values: None,
                     date_type: true,

@@ -61,16 +61,16 @@ To get utility from the machine readable files provided by hospitals, one has to
 
 This latter sort of use case is less straightforward given the current rule implementation, because (as far as we know) there is no centralized, government-run website that maintains a list of all hospitals' transparency urls (nor have we seen indication that anyone is planning to produce such a list in the immediate future). This means that to "shop around", a consumer has to compile a list of hospitals they are considering, perform a search to find the MRF for each one, and then open each of those files and cross reference between them.
 
-Having the urls for all such files in one location would be invaluable to consumers, and third parties building tools to support consumers, since it would allow people to easily download and compare many files, and aggregate the pricing findings in one location, all from one source (or easily write software to do this!). There are plenty of companies doing this aggregation themselves, keeping the aggregate lists proprietary, and selling the aggregated info that allows consumers to "shop around" back to consumers and ealthcare professionals. While it is great these resources exist, we believe they do not do enough. The fact that these companies are not open sourcing the list of MRF urls they collect goes against the entire intention of the rules, which are meant to provide clear and easy access _directly to consumers_, for free. Existing resources contribute more costs to our systems by adding more stockholders looking for profits from the very data that was meant to allow consumers to spend less, and make our systems more broadly accessible and efficient. Since we as consumers pay taxes to fund all of the work CMS and HHS do, it is reasonable to consider the MRFs and other transparency data that providers are being required to submit as belonging to _us_, the people, and we should work to ensure it exists in it's full glory outside proprietary silos that drive all of our costs up.
+Having the urls for all such files in one location would be invaluable to consumers, and third parties building tools to support consumers, since it would allow people to easily download and compare many files, and aggregate the pricing findings in one location, all from one source (or easily write software to do this!). There are plenty of companies doing this aggregation themselves, keeping the aggregate lists proprietary, and selling the aggregated info that allows consumers to "shop around" back to consumers and healthcare professionals. While it is great these resources exist, we believe they do not do enough. The fact that these companies are not open sourcing the list of MRF urls they collect goes against the entire intention of the rules, which are meant to provide clear and easy access _directly to consumers_, for free. Existing resources contribute more costs to our systems by adding more stockholders looking for profits from the very data that was meant to allow consumers to spend less, and make our systems more broadly accessible and efficient. Since we as consumers pay taxes to fund all of the work CMS and HHS do, it is reasonable to consider the MRFs and other transparency data that providers are being required to submit as belonging to _us_, the people, and we should work to ensure it exists in it's full glory outside proprietary silos that drive all of our costs up.
 
 We will try to maintain a centralized source of truth for the urls of publicly accessible MRFs for hospitals in the U.S. This data can be viewed in [`price_transparency/hospitals/machine_readable_links.csv`](./price_transparency/hospitals/machine_readable_links.csv), and you can read about the schema of that file in [`price_transparency/hospitals/README.md`](./price_transparency/hospitals/README.md).
 
 Here is an example of the data in this file:
 
-| reporting_entity_name_legal| reporting_entity_name_common | reporting_entity_type | machine_readable_url | machine_readable_url_status | machine_readable_page | supplemental_url | file_name | file_format | meets_standard | standard_issue | state_or_region | last_updated_date |
-| ---| --- | --- | ---- | ---- | --- |---- | --- | --- | --- | --- | --- | --- |
-| | WellSpan York Hospital | hospital | https://www.wellspan.org/media/2659837/231352222_york-hospital_standardcharges.json | up | https://www.wellspan.org/patients-visitors/patient-guide/billing-insurance/cost-of-care/ | | 231352222_york-hospital_standardcharges.json | json| | | PA | 2022-05-09 |
- | |  Wills Eye Hospital |hospital | https://www.willseye.org/wp-content/uploads/2021/01/Wills-Eye-Hospital-standardcharges.csv | up | https://www.willseye.org/patients-visitors/current-standard-charges/| | Wills-Eye-Hospital-standardcharges.csv| csv | | |PA | 2022-05-09|
+| ccn| reporting_entity_name_legal| reporting_entity_name_common | reporting_entity_type | machine_readable_url | machine_readable_url_status | machine_readable_page | supplemental_url | file_name | file_format | meets_standard | standard_issue | state_or_region | last_updated_date |
+| ---|---| --- | --- | ---- | ---- | --- |---- | --- | --- | --- | --- | --- | --- |
+| | | WellSpan York Hospital | hospital | https://www.wellspan.org/media/2659837/231352222_york-hospital_standardcharges.json | up | https://www.wellspan.org/patients-visitors/patient-guide/billing-insurance/cost-of-care/ | | 231352222_york-hospital_standardcharges.json | json| | | PA | 2022-05-09 |
+| | |  Wills Eye Hospital |hospital | https://www.willseye.org/wp-content/uploads/2021/01/Wills-Eye-Hospital-standardcharges.csv | up | https://www.willseye.org/patients-visitors/current-standard-charges/| | Wills-Eye-Hospital-standardcharges.csv| csv | | |PA | 2022-05-09|
 
 **Note:** While there is no centralized, government-run site that includes a list of all MRF urls, there is documentation provided by CMS about what form the file names of these MRFs should take, which might prove useful. Namely, in [this CMS guide](https://www.cms.gov/files/document/steps-machine-readable-file.pdf)
 they describe that file name should follow the template:
@@ -96,13 +96,22 @@ You can read about the transparency rules for insurers in the following location
 
 #### Machine Readable Files
 
-Our goal for insurance pricing transparency is to maintain a centralized source of truth for the urls of publicly accessible MRFs for insurers in the U.S. This data can be viewed in [`price_transparency/insurers/machine_readable_links.csv`](./price_transparency/insurers/machine_readable_links.csv), and you can read about the schema of that file in [`price_transparency/insurers/README.md`](./price_transparency/insurers/README.md).
+Our goal for insurance pricing transparency is to maintain a centralized source of truth for the urls of publicly accessible MRFs for insurers in the U.S. We do this by providing two forms of data.
+
+The first source of data is a csv that documents the urls at which different insurers provide supplemental information about their compliance with price transparency; these pages often include things like links to all individual MRFs, so serve as a a good
+location to try to scrape MRF data.
+
+This data can be viewed in [`price_transparency/insurers/machine_readable_homepages.csv`](./price_transparency/insurers/machine_readable_homepages.csv), and you can read about the schema of that file in [`price_transparency/insurers/README.md`](./price_transparency/insurers/README.md).
 
 Here is an example of the data in this file:
 
-| reporting_entity_name_legal| reporting_entity_name_common | reporting_entity_type | machine_readable_url | machine_readable_url_status | machine_readable_page | supplemental_url | file_name | file_format | meets_standard | standard_issue | state_or_region | last_updated_date |
-| ---| --- | --- | ---- | ---- | --- |---- | --- | --- | --- | --- | --- | --- |
-| United Healthcare | United Healthcare| insurer |transparency-in-coverage.uhc.com | down |transparency-in-coverage.uhc.com |https://www.uhc.com/content/dam/uhcdotcom/en/HealthReform/PDF/Provisions/reform-external-transparancy-FAQs.pdf||||||2022-04-13
+| id | reporting_entity_name_legal| reporting_entity_name_common | reporting_entity_type | machine_readable_url | machine_readable_url_status | machine_readable_page | supplemental_url | file_name | file_format | meets_standard | standard_issue | state_or_region | last_updated_date |
+| --- | ---| --- | --- | ---- | ---- | --- |---- | --- | --- | --- | --- | --- | --- |
+| 1 |United Healthcare | United Healthcare| insurer |transparency-in-coverage.uhc.com | down |transparency-in-coverage.uhc.com |https://www.uhc.com/content/dam/uhcdotcom/en/HealthReform/PDF/Provisions/reform-external-transparancy-FAQs.pdf||||||2022-04-13
+
+The second source of data is (will be) a csv that lists the individual MRFs provided by each insurer. These tend to be obtained by scraping the urls included in the previous data source.
+
+This data can (will be able to be) be viewed in [`price_transparency/insurers/machine_readable_links.csv`](./price_transparency/insurers/machine_readable_links.csv), and you can read about the schema of that file in [`price_transparency/insurers/README.md`](./price_transparency/insurers/README.md).
 
 **Note:** As for hospitals, CMS outlines standard format for the file names for various insurer price transparency files that are required. Check out the CMS technical specification repo [here](https://github.com/CMSgov/price-transparency-guide) for more details.
 

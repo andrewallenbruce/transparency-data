@@ -6,6 +6,7 @@ It is a flat file with the following schema:
 
 | Name | Description | Type | Definition | Required | Example Value |
 | ----- | ---- | ---- | ---------- | -------- | --------- |
+| **ccn** | CMS certification number | String | A six to ten digit certfication string (can lead with 0s) given to a provider certified to bill medicare or medicaid. See [this](https://www.cms.gov/regulations-and-guidance/guidance/transmittals/downloads/r29soma.pdf) for more info. | No | 010001 |
 | **reporting_entity_name_legal** | Entity Name (legal) | String | The legal name of the entity publishing the machine-readable file, i.e. the hospital's legal name. | No | childrens hospital of philadelphia foundation |
 | **reporting_entity_name_common** | Entity Name (common) | String | The common name of the entity publishing the machine-readable file, i.e. the hospital's common name. | Yes | The Children's Hospital of Philadelphia |
 | **reporting_entity_type** | Entity Type | Enum("hospital", "other") | The type of entity that is publishing the machine-readable file. | No | hospital |
@@ -20,7 +21,7 @@ It is a flat file with the following schema:
 | **state_or_region** | State or Region | Enum(ABBREV) (see below) | State or region in which legal reporting entity is incorporated. | No | PA |
 | **last_updated_date** | Last Updated Date | String | The date in which the MRF was last updated according to the organization. Date must be in an ISO 8601 format (i.e. YYYY-MM-DD). | No | 2022-04-14 |
 | **entry_date** | Entry Date | String | The date in which **this** record (not the MRF) was last updated/entered into the system. Date must be in an ISO 8601 format (i.e. YYYY-MM-DD). | Yes | 2022-04-14 |
-| **notes** | Notes | String | Miscellaneous notes for each entry. | No | "Notes for row" |
+| **notes** | Notes | String | Miscellaneous notes for each entry. | No | Notes for row |
 
 
 **Note:**
