@@ -53,7 +53,7 @@ fn get_schema(schema_name: &str) -> Result<&[DataCol], Box<dyn Error>> {
                 },
                 DataCol {
                     name: "machine_readable_url",
-                    required: true,
+                    required: false,
                     enum_type: false,
                     enum_values: None,
                     date_type: false,
