@@ -60,7 +60,7 @@ fn get_schema(schema_name: &str) -> Result<&[DataCol], Box<dyn Error>> {
                 },
                 DataCol {
                     name: "machine_readable_url_status",
-                    required: true,
+                    required: false,
                     enum_type: true,
                     enum_values: Some(&["up", "down", "corrupt"]),
                     date_type: false,
