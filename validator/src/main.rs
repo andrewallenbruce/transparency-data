@@ -97,6 +97,13 @@ fn get_schema(schema_name: &str) -> Result<&[DataCol], Box<dyn Error>> {
                     date_type: false,
                 },
                 DataCol {
+                    name: "file_size",
+                    required: false,
+                    enum_type: false,
+                    enum_values: None,
+                    date_type: false,
+                },
+                DataCol {
                     name: "meets_standard",
                     required: false,
                     enum_type: true,
