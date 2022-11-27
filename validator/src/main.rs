@@ -60,7 +60,7 @@ fn get_schema(schema_name: &str) -> Result<&[DataCol], Box<dyn Error>> {
                 },
                 DataCol {
                     name: "machine_readable_url_status",
-                    required: true,
+                    required: false,
                     enum_type: true,
                     enum_values: Some(&["up", "down", "corrupt"]),
                     date_type: false,
@@ -88,12 +88,19 @@ fn get_schema(schema_name: &str) -> Result<&[DataCol], Box<dyn Error>> {
                 },
                 DataCol {
                     name: "file_format",
-                    required: true,
+                    required: false,
                     enum_type: true,
                     enum_values: Some(&[
                         "csv", "json", "xml", "xlsx", "zip/csv", "zip/json", "zip/xml", "zip/xlsx",
                         "other",
                     ]),
+                    date_type: false,
+                },
+                DataCol {
+                    name: "file_size",
+                    required: false,
+                    enum_type: false,
+                    enum_values: None,
                     date_type: false,
                 },
                 DataCol {

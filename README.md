@@ -67,10 +67,10 @@ We will try to maintain a centralized source of truth for the urls of publicly a
 
 Here is an example of the data in this file:
 
-| ccn| reporting_entity_name_legal| reporting_entity_name_common | reporting_entity_type | machine_readable_url | machine_readable_url_status | machine_readable_page | supplemental_url | file_name | file_format | meets_standard | standard_issue | state_or_region | last_updated_date |
+| ccn| reporting_entity_name_legal| reporting_entity_name_common | reporting_entity_type | machine_readable_url | machine_readable_url_status | machine_readable_page | supplemental_url | file_name | file_format | file_size | meets_standard | standard_issue | state_or_region | last_updated_date |
 | ---|---| --- | --- | ---- | ---- | --- |---- | --- | --- | --- | --- | --- | --- |
-| | | WellSpan York Hospital | hospital | https://www.wellspan.org/media/2659837/231352222_york-hospital_standardcharges.json | up | https://www.wellspan.org/patients-visitors/patient-guide/billing-insurance/cost-of-care/ | | 231352222_york-hospital_standardcharges.json | json| | | PA | 2022-05-09 |
-| | |  Wills Eye Hospital |hospital | https://www.willseye.org/wp-content/uploads/2021/01/Wills-Eye-Hospital-standardcharges.csv | up | https://www.willseye.org/patients-visitors/current-standard-charges/| | Wills-Eye-Hospital-standardcharges.csv| csv | | |PA | 2022-05-09|
+| | | WellSpan York Hospital | hospital | https://www.wellspan.org/media/2659837/231352222_york-hospital_standardcharges.json | up | https://www.wellspan.org/patients-visitors/patient-guide/billing-insurance/cost-of-care/ | | 231352222_york-hospital_standardcharges.json | json| | | | PA | 2022-05-09 |
+| | |  Wills Eye Hospital |hospital | https://www.willseye.org/wp-content/uploads/2021/01/Wills-Eye-Hospital-standardcharges.csv | up | https://www.willseye.org/patients-visitors/current-standard-charges/| | Wills-Eye-Hospital-standardcharges.csv| csv | | | |PA | 2022-05-09|
 
 **Note:** While there is no centralized, government-run site that includes a list of all MRF urls, there is documentation provided by CMS about what form the file names of these MRFs should take, which might prove useful. Namely, in [this CMS guide](https://www.cms.gov/files/document/steps-machine-readable-file.pdf)
 they describe that file name should follow the template:
