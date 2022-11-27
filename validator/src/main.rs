@@ -88,7 +88,7 @@ fn get_schema(schema_name: &str) -> Result<&[DataCol], Box<dyn Error>> {
                 },
                 DataCol {
                     name: "file_format",
-                    required: true,
+                    required: false,
                     enum_type: true,
                     enum_values: Some(&[
                         "csv", "json", "xml", "xlsx", "zip/csv", "zip/json", "zip/xml", "zip/xlsx",
