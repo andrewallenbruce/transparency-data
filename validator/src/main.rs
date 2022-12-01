@@ -258,6 +258,140 @@ fn get_schema(schema_name: &str) -> Result<&[DataCol], Box<dyn Error>> {
                 },
             ];
         }
+        "hospital_existence" => {
+            // Columns
+            cols = &[
+                DataCol {
+                    name: "street_address",
+                    required: false,
+                    enum_type: false,
+                    enum_values: None,
+                    date_type: false,
+                },
+                DataCol {
+                    name: "phone_number",
+                    required: false,
+                    enum_type: false,
+                    enum_values: None,
+                    date_type: false,
+                },
+                DataCol {
+                    name: "zip_code",
+                    required: false,
+                    enum_type: false,
+                    enum_values: None,
+                    date_type: false,
+                },
+                DataCol {
+                    name: "has_501c3",
+                    required: false,
+                    enum_type: true,
+                    enum_values: Some(&["true", "false"]),
+                    date_type: false,
+                },
+                DataCol {
+                    name: "fips_county_code",
+                    required: false,
+                    enum_type: false,
+                    enum_values: None,
+                    date_type: false,
+                },
+                DataCol {
+                    name: "bed_count",
+                    required: false,
+                    enum_type: false,
+                    enum_values: None,
+                    date_type: false,
+                },
+                DataCol {
+                    name: "city",
+                    required: false,
+                    enum_type: false,
+                    enum_values: None,
+                    date_type: false,
+                },
+                DataCol {
+                    name: "state_or_region",
+                    required: false,
+                    enum_type: true,
+                    enum_values: Some(&[
+                        "AL", "AK", "AS", "AZ", "AR", "CA", "CO", "CT", "DE", "DC", "FL", "GA",
+                        "GU", "HI", "ID", "IL", "IN", "IA", "KS", "KY", "LA", "ME", "MD", "MA",
+                        "MI", "MN", "MS", "MO", "MT", "NE", "NV", "NH", "NJ", "NM", "NY", "NC",
+                        "ND", "MP", "OH", "OK", "OR", "PA", "PR", "RI", "SC", "SD", "TN", "TX",
+                        "UT", "VT", "VI", "VA", "WA", "WV", "WI", "WY",
+                    ]),
+                    date_type: false,
+                },
+                DataCol {
+                    name: "name_common",
+                    required: true,
+                    enum_type: false,
+                    enum_values: None,
+                    date_type: false,
+                },
+                DataCol {
+                    name: "name_legal",
+                    required: false,
+                    enum_type: false,
+                    enum_values: None,
+                    date_type: false,
+                },
+                DataCol {
+                    name: "ccn",
+                    required: false,
+                    enum_type: false,
+                    enum_values: None,
+                    date_type: false,
+                },
+                DataCol {
+                    name: "facility_type",
+                    required: false,
+                    enum_type: true,
+                    enum_values: Some(&[
+                        "Short Term",
+                        "Critical Access Hospitals",
+                        "Long Term",
+                        "Rehabilitation",
+                        "Childrens Hospitals",
+                        "Psychiatric",
+                        "Transplant Hospitals",
+                        "Religious Non-Medical Health Care Institutions",
+                        "Medicaid Only Children's Psychiatric",
+                        "other",
+                    ]),
+                    date_type: false,
+                },
+                DataCol {
+                    name: "medicare_medicaid_eligible",
+                    required: false,
+                    enum_type: false,
+                    enum_values: Some(&["true", "false"]),
+                    date_type: false,
+                },
+                DataCol {
+                    name: "lat",
+                    required: false,
+                    enum_type: false,
+                    enum_values: None,
+                    date_type: false,
+                },
+                DataCol {
+                    name: "lon",
+                    required: false,
+                    enum_type: false,
+                    enum_values: None,
+                    date_type: false,
+                },
+                DataCol {
+                    name: "ein",
+                    required: false,
+                    enum_type: false,
+                    enum_values: None,
+                    date_type: false,
+                },
+            ];
+        }
         "insurer_homepages" => {
             // Columns
             cols = &[

@@ -25,3 +25,5 @@ jobs:
         run: ./validator/target/release/validator ./price_transparency/hospitals/machine_readable_links.csv hospital_price_transparency
       - name: Validate insurer homepages
         run: ./validator/target/release/validator ./price_transparency/insurers/machine_readable_homepages.csv insurer_homepages
+      - name: Validate hospital existence
+        run: ./validator/target/release/validator ./existence_transparency/hospitals/hospitals.csv hospital_existence
