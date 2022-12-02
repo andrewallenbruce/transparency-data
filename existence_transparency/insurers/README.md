@@ -93,7 +93,7 @@ This file is a flat file with the following schema:
 <!-- TODO: Maintain sqlite DBs that get bi-directionally auto-synced with exported csvs via CI jobs. This will improve
 out of the box utility, while allowing accesible editing from all participants. -->
 The files below ought to be thought of as tables in a relational schema, and probably belong most naturally in a relational database.
-In fact, this is how [Persius](https://persius.org) uses such data behind the scenes in our free tools, and the data here was initially populated as an export
+In fact, this is how https://persius.org uses such data behind the scenes in our free tools, and the data here was initially populated as an export
 of a populated SQL DB. We maintain flat files here with foreign key constraints relaxed to mere implications just to facilitate accessible access (both read, and write) for those
 who aren't familiar with SQL, but who want to use or contribute to this data. Keeping this data up to date is going to constitute persistent work given current reporting standards,
 and we want to engender effective collective action.

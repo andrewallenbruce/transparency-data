@@ -161,11 +161,21 @@ Here are some examples of sources that can be used to generate partial or incomp
 
 ### Hospitals
 
-We maintain a flat file describing hospitals of which are we are aware in [`existence_transparency/hospitals/hospitals.csv`](./existence_transparency/hospitals/hospitals.csv). See [`existence_transparency/hospitals/README.md`](./existence_transparency/hospitals/README.md) for a description of the schema used in this file.
+We maintain a flat file describing:
+
+- Hospitals we know about: [`existence_transparency/hospitals/hospitals.csv`](./existence_transparency/hospitals/hospitals.csv).
+
+See [`existence_transparency/hospitals/README.md`](./existence_transparency/hospitals/README.md) for a description of the schema used in this file.
 
 ### Insurance Issuers
 
-We maintain a flat file describing insurers we know about in [`existence_transparency/insurers/insurers.csv`](./existence_transparency/insurers/insurers.csv). See [`existence_transparency/insurers/README.md`](existence_transparency/insurers/README.md) for a description of the schema used in this file.
+We maintain flat files describing:
+
+1. Insurers we know about: [`existence_transparency/insurers/insurers.csv`](./existence_transparency/insurers/insurers.csv).
+2. Their associated issuers: [`existence_transparency/insurers/issuers.csv`](./existence_transparency/insurers/issuers.csv).
+3. Their associated plans: [`existence_transparency/insurers/plans.csv`](./existence_transparency/insurers/plans.csv).
+
+See [`existence_transparency/insurers/README.md`](existence_transparency/insurers/README.md) for a description of the schemas used in these files.
 
 ## Contributing
 
