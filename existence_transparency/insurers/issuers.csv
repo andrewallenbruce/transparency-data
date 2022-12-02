@@ -1,111 +1,111 @@
 hios_issuer_id,insurer_name_legal,state_or_region,serff_id,naic_company_code
-13877,"Oscar Health Plan, Inc.",AZ,,
-18167,"Molina Healthcare of Utah",UT,,
-21333,"Medica Insurance Company",OK,,
-23552,"Oscar Insurance Company",TN,,
-25896,"Wellmark Health Plan of Iowa, Inc.",IA,,
-29276,"Community Insurance Company(Anthem BCBS)",OH,,
-29341,"Oscar Buckeye State Insurance Corp.",OH,,
-40572,"Oscar Insurance Company of Florida",FL,,
-45845,"Oscar Insurance Corporation of Ohio",OH,,
-52664,"Summa Insurance Company, Inc.",OH,,
-52697,"Molina Healthcare of Wisconsin, Inc.",WI,,
-53461,"Medica Insurance Company",MO,,
-70111,"Celtic Insurance Company",TN,,
-73301,"Bright Health Insurance Company of Alabama, Inc.",AL,,
-77264,"Ambetter of North Carolina Inc.",NC,,
-77739,"Oscar Insurance Company",MI,,
-79222,"Absolute Total Care, Inc",SC,,
-80065,"Sunflower State Health Plan, Inc",KS,,
-85773,"Quartz Health Benefit Plans Corporation",IL,,
-87247,"Bright Health Company of Arizona",AZ,,
-97667,"Cigna HealthCare of Arizona, Inc",AZ,,
-97906,"Bright Health Insurance Company of Tennessee",TN,,
-99723,"Celtic Insurance Company",MO,,
-11269,"Blue Cross Blue Shield of Wyoming",WY,,
-11512,"Blue Cross and Blue Shield of NC",NC,,
-14002,"BlueCross BlueShield of Tennessee",TN,,
-14630,"Children's Community Health Plan",WI,,
-15560,"Blue Cross Blue Shield of Michigan Mutual Insurance Company",MI,,
-16842,"Blue Cross and Blue Shield of Florida",FL,,
-18350,"Hawaii Medical Service Association",HI,,
-18558,"Blue Cross and Blue Shield of Kansas, Inc.",KS,,
-19636,"HMO Louisiana, Inc.",LA,,
-20069,"Oscar Insurance Company",TX,,
-20129,"Health Alliance Medical Plans, Inc.",IL,,
-20173,"HealthPartners Insurance Company",WI,,
-20305,"Medica Insurance Company",NE,,
-21663,"Celtic Insurance Company",FL,,
-23603,"PacificSource Health Plans",MT,,
-26065,"Blue Cross and Blue Shield of South Carolina",SC,,
-26539,"SHA, LLC DBA FirstCare Health Plans",TX,,
-27248,"Community Health Choice, Inc.",TX,,
-27833,"Celtic Insurance Company",IL,,
-28162,"AultCare Insurance Company",OH,,
-29418,"Celtic Insurance Company",TX,,
-29698,"Priority Health",MI,,
-30252,"Health Options, Inc.",FL,,
-30751,"Blue Cross and Blue Shield of Montana",MT,,
-31195,"Sanford Health Plan",SD,,
-31274,"Highmark Blue Cross Blue Shield West Virginia",WV,,
-32225,"Montana Health Cooperative",MT,,
-32753,"Healthy Alliance Life Co(Anthem BCBS)",MO,,
-33602,"Blue Cross Blue Shield of Texas",TX,,
-36096,"Blue Cross Blue Shield of Illinois",IL,,
-36194,"Health First Commercial Plans, Inc.",FL,,
-37160,"Blue Cross Blue Shield of North Dakota",ND,,
-37833,"Quartz Health Benefit Plans Corporation",WI,,
-38166,"Security Health Plan of Wisconsin, Inc.",WI,,
-38344,"Premera Blue Cross Blue Shield of Alaska",AK,,
-38345,"Dean Health Plan",WI,,
-39520,"Medica Insurance Company",KS,,
-40047,"Molina Healthcare of Michigan, Inc.",MI,,
-41047,"Buckeye Community Health Plan",OH,,
-42261,"University of Utah Health Insurance Plans",UT,,
-45786,"Molina Healthcare of Texas, Inc.",TX,,
-46944,"Blue Cross and Blue Shield of Alabama",AL,,
-49046,"Anthem Blue Cross and Blue Shield",GA,,
-50328,"CareSource West Virginia Co.",WV,,
-53882,"Cigna HealthCare of Illinois, Inc.",IL,,
-53901,"Blue Cross and Blue Shield of Arizona, Inc.",AZ,,
-54172,"Molina Healthcare of Florida, Inc",FL,,
-54192,"CareSource Indiana, Inc.",IN,,
-56503,"Florida Health Care Plan, Inc.",FL,,
-57845,"Medica Community Health Plan",WI,,
-58326,"MercyCare HMO, Inc.",WI,,
-58594,"Meridian Health Plan of Michigan, Inc.",MI,,
-59025,"Harvard Pilgrim Health Care of NE",NH,,
-60536,"Avera Health Plans, Inc.",SD,,
-60612,"Kaiser Foundation Health Plan, Inc.",HI,,
-60829,"Physicians Health Plan",MI,,
-64353,"Molina Healthcare of Ohio, Inc.",OH,,
-66252,"CHRISTUS Health Plan",TX,,
-67183,"Total Health Care USA, Inc.",MI,,
-67243,"Vantage Health Plan, Inc.",LA,,
-68781,SelectHealth,UT,,
-70893,"Ambetter of Peach State Inc.",GA,,
-71837,"Sendero Health Plans, Inc.",TX,,
-73943,"Cigna HealthCare of North Carolina, Inc.",NC,,
-74313,"Paramount Insurance Company",OH,,
-74483,"Cigna Health and Life Insurance Company",MO,,
-74917,"McLaren Health Plan Community",MI,,
-75841,"Celtic Insurance Company",NH,,
-76168,"Highmark BCBSD Inc.",DE,,
-76179,"Celtic Insurance Company",IN,,
-77552,"CareSource Ohio, Inc.",OH,,
-81413,"Network Health Plan",WI,,
-83761,"Alliant Health Plans",GA,,
-86584,"Aspirus Arise Health Plan of Wisconsin, Inc.",WI,,
-87416,"Common Ground Healthcare Cooperative",WI,,
-87571,"Blue Cross Blue Shield of Oklahoma",OK,,
-89364,"Sanford Health Plan",ND,,
-89942,"Kaiser Foundation Health Plan of Georgia",GA,,
-90714,"Ambetter of Magnolia Inc.",MS,,
-91450,"Health Net of Arizona, Inc.",AZ,,
-93078,"Medica Insurance Company",IA,,
-94529,"Group Health Cooperative of South Central Wisconsin",WI,,
-96751,"Matthew Thornton Hlth Plan(Anthem BCBS)",NH,,
-97176,"Louisiana Health Service & Indemnity Company",LA,,
-98185,"Blue Care Network of Michigan",MI,,
-99248,"Cigna Health and Life Insurance Company",TN,,
-99969,"Medical Health Insuring Corp. of Ohio",OH,,
+13877,"oscar health plan, inc.",AZ,,16337
+18167,molina healthcare of utah,UT,,95502
+21333,medica insurance company,OK,,12459
+23552,oscar insurance company,TN,,16374
+25896,"wellmark health plan of iowa, inc.",IA,,95531
+29276,community insurance company(anthem bcbs),OH,,
+29341,oscar buckeye state insurance corp.,OH,,
+40572,oscar insurance company of florida,FL,,16374
+45845,oscar insurance corporation of ohio,OH,,16202
+52664,"summa insurance company, inc.",OH,,10649
+52697,"molina healthcare of wisconsin, inc.",WI,,12007
+53461,medica insurance company,MO,,12459
+70111,celtic insurance company,TN,,80799
+73301,"bright health insurance company of alabama, inc.",AL,,
+77264,ambetter of north carolina inc.,NC,,16395
+77739,oscar insurance company,MI,,16374
+79222,"absolute total care, inc",SC,,12959
+80065,"sunflower state health plan, inc",KS,,14345
+85773,quartz health benefit plans corporation,IL,,95796
+87247,bright health company of arizona,AZ,,16122
+97667,"cigna healthcare of arizona, inc",AZ,,95125
+97906,bright health insurance company of tennessee,TN,,16341
+99723,celtic insurance company,MO,,80799
+11269,blue cross blue shield of wyoming,WY,,53767
+11512,blue cross and blue shield of nc,NC,,
+14002,bluecross blueshield of tennessee,TN,,54518
+14630,children's community health plan,WI,,
+15560,blue cross blue shield of michigan mutual insurance company,MI,,54291
+16842,blue cross and blue shield of florida,FL,,98167
+18350,hawaii medical service association,HI,,49948
+18558,"blue cross and blue shield of kansas, inc.",KS,,70729
+19636,"hmo louisiana, inc.",LA,,95643
+20069,oscar insurance company,TX,,16374
+20129,"health alliance medical plans, inc.",IL,,77950
+20173,healthpartners insurance company,WI,,44547
+20305,medica insurance company,NE,,12459
+21663,celtic insurance company,FL,,80799
+23603,pacificsource health plans,MT,,54976
+26065,blue cross and blue shield of south carolina,SC,,38520
+26539,"sha, llc dba firstcare health plans",TX,,
+27248,"community health choice, inc.",TX,,95615
+27833,celtic insurance company,IL,,80799
+28162,aultcare insurance company,OH,,77216
+29418,celtic insurance company,TX,,80799
+29698,priority health,MI,,11520
+30252,"health options, inc.",FL,,95089
+30751,blue cross and blue shield of montana,MT,,53295
+31195,sanford health plan,SD,,95683
+31274,highmark blue cross blue shield west virginia,WV,,
+32225,montana health cooperative,MT,,14933
+32753,healthy alliance life co(anthem bcbs),MO,,
+33602,blue cross blue shield of texas,TX,,
+36096,blue cross blue shield of illinois,IL,,
+36194,"health first commercial plans, inc.",FL,,16272
+37160,blue cross blue shield of north dakota,ND,,55891
+37833,quartz health benefit plans corporation,WI,,95796
+38166,"security health plan of wisconsin, inc.",WI,,96881
+38344,premera blue cross blue shield of alaska,AK,,
+38345,dean health plan,WI,,96156
+39520,medica insurance company,KS,,12459
+40047,"molina healthcare of michigan, inc.",MI,,52630
+41047,buckeye community health plan,OH,,11834
+42261,university of utah health insurance plans,UT,,15648
+45786,"molina healthcare of texas, inc.",TX,,10757
+46944,blue cross and blue shield of alabama,AL,,55433
+49046,anthem blue cross and blue shield,GA,,
+50328,caresource west virginia co.,WV,,15728
+53882,"cigna healthcare of illinois, inc.",IL,,95602
+53901,"blue cross and blue shield of arizona, inc.",AZ,,53589
+54172,"molina healthcare of florida, inc",FL,,13128
+54192,"caresource indiana, inc.",IN,,
+56503,"florida health care plan, inc.",FL,,13567
+57845,medica community health plan,WI,,95232
+58326,"mercycare hmo, inc.",WI,,12195
+58594,"meridian health plan of michigan, inc.",MI,,52563
+59025,harvard pilgrim health care of ne,NH,,96717
+60536,"avera health plans, inc.",SD,,95839
+60612,"kaiser foundation health plan, inc.",HI,,11538
+60829,physicians health plan,MI,,95436
+64353,"molina healthcare of ohio, inc.",OH,,12334
+66252,christus health plan,TX,,16635
+67183,"total health care usa, inc.",MI,,12326
+67243,"vantage health plan, inc.",LA,,95584
+68781,selecthealth,UT,,63245
+70893,ambetter of peach state inc.,GA,,15729
+71837,"sendero health plans, inc.",TX,,14151
+73943,"cigna healthcare of north carolina, inc.",NC,,95132
+74313,paramount insurance company,OH,,11518
+74483,cigna health and life insurance company,MO,,67369
+74917,mclaren health plan community,MI,,14217
+75841,celtic insurance company,NH,,80799
+76168,highmark bcbsd inc.,DE,,53287
+76179,celtic insurance company,IN,,80799
+77552,"caresource ohio, inc.",OH,,95201
+81413,network health plan,WI,,95737
+83761,alliant health plans,GA,,11256
+86584,"aspirus arise health plan of wisconsin, inc.",WI,,
+87416,common ground healthcare cooperative,WI,,15061
+87571,blue cross blue shield of oklahoma,OK,,
+89364,sanford health plan,ND,,95683
+89942,kaiser foundation health plan of georgia,GA,,96237
+90714,ambetter of magnolia inc.,MS,,15762
+91450,"health net of arizona, inc.",AZ,,95206
+93078,medica insurance company,IA,,12459
+94529,group health cooperative of south central wisconsin,WI,,95311
+96751,matthew thornton hlth plan(anthem bcbs),NH,,
+97176,louisiana health service & indemnity company,LA,,81200
+98185,blue care network of michigan,MI,,95610
+99248,cigna health and life insurance company,TN,,67369
+99969,medical health insuring corp. of ohio,OH,,95828
