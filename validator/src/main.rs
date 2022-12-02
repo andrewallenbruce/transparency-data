@@ -473,6 +473,52 @@ fn get_schema(schema_name: &str) -> Result<&[DataCol], Box<dyn Error>> {
                 },
             ];
         }
+        "insurer_existence_issuers" => {
+            // Columns
+            cols = &[
+                DataCol {
+                    name: "hios_issuer_id",
+                    required: true,
+                    enum_type: false,
+                    enum_values: None,
+                    date_type: false,
+                },
+                DataCol {
+                    name: "insurer_name_legal",
+                    required: false,
+                    enum_type: false,
+                    enum_values: None,
+                    date_type: false,
+                },
+                DataCol {
+                    name: "state_or_region",
+                    required: false,
+                    enum_type: true,
+                    enum_values: Some(&[
+                        "AL", "AK", "AS", "AZ", "AR", "CA", "CO", "CT", "DE", "DC", "FL", "GA",
+                        "GU", "HI", "ID", "IL", "IN", "IA", "KS", "KY", "LA", "ME", "MD", "MA",
+                        "MI", "MN", "MS", "MO", "MT", "NE", "NV", "NH", "NJ", "NM", "NY", "NC",
+                        "ND", "MP", "OH", "OK", "OR", "PA", "PR", "RI", "SC", "SD", "TN", "TX",
+                        "UT", "VT", "VI", "VA", "WA", "WV", "WI", "WY",
+                    ]),
+                    date_type: false,
+                },
+                DataCol {
+                    name: "serff_id",
+                    required: false,
+                    enum_type: false,
+                    enum_values: None,
+                    date_type: false,
+                },
+                DataCol {
+                    name: "naic_company_code",
+                    required: false,
+                    enum_type: false,
+                    enum_values: None,
+                    date_type: false,
+                },
+            ];
+        }
         "insurer_homepages" => {
             // Columns
             cols = &[
