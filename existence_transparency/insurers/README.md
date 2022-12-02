@@ -83,6 +83,8 @@ This file is a flat file with the following schema:
 | **sob_url** | Url for summary of benefits | String | URL for publicly hosted summary of benefits for plan. | No |  |
 | **full_benefits_url** | Url for full benefits contract | String | URL for publicly hosted copy of full benefits booklet. | No |  |
 | **plan_metal_level** | Metal level of plan | Enum("platinum", "gold", "silver", "bronze", "catastrophic") | Metal level of plan as designated by [healthcare.gov](https://www.healthcare.gov/choose-a-plan/plans-categories/)  | No |  |
+| **effective_date** | Date on which plan came into existence | String | Date on which plan came into existence. Date must be in an ISO 8601 format (i.e. YYYY-MM-DD).  | No |  |
+| **expiration_date** | Date after which plan is invalid | String | Date on which plan came into existence. Date must be in an ISO 8601 format (i.e. YYYY-MM-DD).  | No |  |
 
 </details>
 

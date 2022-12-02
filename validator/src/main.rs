@@ -578,6 +578,20 @@ fn get_schema(schema_name: &str) -> Result<&[DataCol], Box<dyn Error>> {
                     enum_values: None,
                     date_type: false,
                 },
+                DataCol {
+                    name: "effective_date",
+                    required: false,
+                    enum_type: false,
+                    enum_values: None,
+                    date_type: true,
+                },
+                DataCol {
+                    name: "expiration_date",
+                    required: false,
+                    enum_type: false,
+                    enum_values: None,
+                    date_type: true,
+                },
             ];
         }
         "insurer_homepages" => {
