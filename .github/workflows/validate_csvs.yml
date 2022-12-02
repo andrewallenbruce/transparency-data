@@ -31,3 +31,5 @@ jobs:
         run: ./validator/target/release/validator ./existence_transparency/insurers/insurers.csv insurer_existence_insurers
       - name: Validate insurer existence (issuers)
         run: ./validator/target/release/validator ./existence_transparency/insurers/issuers.csv insurer_existence_issuers
+      - name: Validate insurer existence (plans)
+        run: ./validator/target/release/validator ./existence_transparency/insurers/plans.csv insurer_existence_plans

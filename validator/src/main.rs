@@ -519,6 +519,67 @@ fn get_schema(schema_name: &str) -> Result<&[DataCol], Box<dyn Error>> {
                 },
             ];
         }
+        "insurer_existence_plans" => {
+            // Columns
+            cols = &[
+                DataCol {
+                    name: "hios_issuer_id",
+                    required: true,
+                    enum_type: false,
+                    enum_values: None,
+                    date_type: false,
+                },
+                DataCol {
+                    name: "hios_rbis_plan_id",
+                    required: false,
+                    enum_type: false,
+                    enum_values: None,
+                    date_type: false,
+                },
+                DataCol {
+                    name: "hpid",
+                    required: false,
+                    enum_type: false,
+                    enum_values: None,
+                    date_type: false,
+                },
+                DataCol {
+                    name: "marketplace_type",
+                    required: false,
+                    enum_type: true,
+                    enum_values: Some(&["individual", "small group", "large group"]),
+                    date_type: false,
+                },
+                DataCol {
+                    name: "hios_product_id",
+                    required: false,
+                    enum_type: false,
+                    enum_values: None,
+                    date_type: false,
+                },
+                DataCol {
+                    name: "plan_type",
+                    required: false,
+                    enum_type: true,
+                    enum_values: Some(&["hmo", "ppo", "epo", "pos", "dental", "other"]),
+                    date_type: false,
+                },
+                DataCol {
+                    name: "sob_url",
+                    required: false,
+                    enum_type: false,
+                    enum_values: None,
+                    date_type: false,
+                },
+                DataCol {
+                    name: "full_benefits_url",
+                    required: false,
+                    enum_type: false,
+                    enum_values: None,
+                    date_type: false,
+                },
+            ];
+        }
         "insurer_homepages" => {
             // Columns
             cols = &[
