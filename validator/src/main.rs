@@ -530,7 +530,7 @@ fn get_schema(schema_name: &str) -> Result<&[DataCol], Box<dyn Error>> {
                     date_type: false,
                 },
                 DataCol {
-                    name: "hios_rbis_plan_id",
+                    name: "hios_plan_id",
                     required: false,
                     enum_type: false,
                     enum_values: None,
@@ -538,6 +538,13 @@ fn get_schema(schema_name: &str) -> Result<&[DataCol], Box<dyn Error>> {
                 },
                 DataCol {
                     name: "hpid",
+                    required: false,
+                    enum_type: false,
+                    enum_values: None,
+                    date_type: false,
+                },
+                DataCol {
+                    name: "plan_name",
                     required: false,
                     enum_type: false,
                     enum_values: None,
@@ -561,7 +568,7 @@ fn get_schema(schema_name: &str) -> Result<&[DataCol], Box<dyn Error>> {
                     name: "plan_type",
                     required: false,
                     enum_type: true,
-                    enum_values: Some(&["hmo", "ppo", "epo", "pos", "dental", "other"]),
+                    enum_values: Some(&["hmo", "ppo", "epo", "pos", "dental", "other", "indemnity"]),
                     date_type: false,
                 },
                 DataCol {

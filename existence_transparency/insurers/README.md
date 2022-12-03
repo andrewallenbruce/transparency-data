@@ -75,11 +75,12 @@ This file is a flat file with the following schema:
 | Name | Description | Type | Definition | Required | Example Value |
 | ----- | ---- | ---- | ---------- | -------- | --------- |
 | **hios_issuer_id** | Health Insurance Oversight System Issuer ID | String | Five-digit int/string (not sure if it can lead with 0s) that identifies the issuer organization as assigned by Health Insurance Oversight System (HIOS). | Yes | 91450 |
-| **hios_rbis_plan_id** | Health Insurance Oversight System (HIOS) Rate and Benefits Information System ID for the Plan | String | Fourteen character string that identifies the plan as specified in RBIS, if applicable. | No |  |
+| **hios_plan_id** | Health Insurance Oversight System (HIOS) Rate and Benefits Information System ID for the Plan | String | Fourteen character string that identifies the plan as specified in RBIS, if applicable. | No |  |
+| **plan_name** | Marketing name for the plan | String | Name for plan | No |  |
 | **hpid** | Health plan identifier assigned to the plan. | String | [Health plan identifier](https://www.cms.gov/Regulations-and-Guidance/Administrative-Simplification/Unique-Identifier/HPID). | No |  |
 | **marketplace_type** | Marketplace type specifier | Enum("individual", "small group", "large group") | Enum specifying marketplace type on which plan is sold, if applicable. | No |  |
 | **hios_product_id** | HIOS product id for the plan. | String | Ten character string that identifies the product in HIOS, if applicable. | No |  |
-| **plan_type** | Type of plan. | Enum("hmo", "ppo", "epo", "pos", "dental", "other")| High level type of contract. | No |  |
+| **plan_type** | Type of plan. | Enum("hmo", "ppo", "epo", "pos", "dental", "indemnity", "other")| High level type of contract. | No |  |
 | **sob_url** | Url for summary of benefits | String | URL for publicly hosted summary of benefits for plan. | No |  |
 | **full_benefits_url** | Url for full benefits contract | String | URL for publicly hosted copy of full benefits booklet. | No |  |
 | **plan_metal_level** | Metal level of plan | Enum("platinum", "gold", "silver", "bronze", "catastrophic") | Metal level of plan as designated by [healthcare.gov](https://www.healthcare.gov/choose-a-plan/plans-categories/)  | No |  |
