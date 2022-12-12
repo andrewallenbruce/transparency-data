@@ -194,19 +194,6 @@ of any issues or mistakes in this data, please submit an issue or pull request, 
 In particular, if you are a representative of a health insurer, hospital or other provider and seek to correct any of our existing data, or provide
 information regarding missing data, your contribution is most welcome.
 
-## Citation
-
-If you find this data useful in your work, please consider mentioning it, providing a link, or citing it to help increase our exposure:
-
-```latex
-  @misc{persius2022transparency,
-	author ={{Persius Contributors}},
-	title={{CMS Transparency Rules Supplemental Data}},
-	publisher = {GitHub},
-	howpublished={\url{https://github.com/TPAFS/transparency-data}},
-	year={2022},
-}
-```
 
 ## License
 
@@ -224,8 +211,27 @@ All original underlying source code in this repository, including that used to v
 
 See [`LICENSE`](./LICENSE) for a full text copy of this license.
 
-Please start a discussion thread for any question or concern related to licensing.
+Please start a discussion thread for any question or concerns related to licensing.
 
+
+## Attribution
+
+If you find this data useful in your work, please consider mentioning it, providing a link, or citing it to help increase our exposure, even if you don't end up using it directly. We'd greatly appreciate that.
+
+In adhering to the attribution clause of the license governing the data, documentation and other media, you can attribute this work as
+"Persius Transparency Rules Supplemental Data", and share the url: [https://github.com/TPAFS/transparency-data](https://github.com/TPAFS/transparency-data)
+
+For publications that use this work, please use the following citation:
+
+```latex
+  @misc{persius2022transparency,
+	author ={{Persius Contributors}},
+	title={{CMS Transparency Rules Supplemental Data}},
+	publisher = {GitHub},
+	howpublished={\url{https://github.com/TPAFS/transparency-data}},
+	year={2022},
+}
+```
 ## Contact
 
 Feel free to reach out to community members, maintainers, or contributors via our discussions space with questions or comments.
