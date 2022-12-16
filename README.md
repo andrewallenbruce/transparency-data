@@ -10,6 +10,7 @@ advocacy groups, and other third parties will be empowered to end unjust practic
 and work towards equitable, accessible government-managed care for all. At the least, we hope that enough easily accessible data will ensure the worst abusers of our systems are recognized and held responsible by the people.
 
 ## Contents
+
 <!-- TODO: Figure out a method of creating TOC that actually works for github markdown rendering. -->
 
 - [Price Transparency](#price-transparency)
@@ -78,6 +79,7 @@ they describe that file name should follow the template:
 `<ein>_<hospital-name>_standardcharges.[json|xml|csv]`. If we had a full list of all hospital names and EINs in the U.S., and we could be sure each of them was following this rule strictly, this would be a way for us to obtain all of the MRF file names very easily. If we additionally knew how those files were being served in some consistent manner relative to a list of known hospital owned domains, we could automate the work we seek to accomplish in this subsection. This is an example of how lack of _existence transparency_ data can limit the utility of other data. See Existence Transparency for more details below.
 
 You can read details and structure of the requirements for machine readable pricing files via CMS documentation.
+
 </details>
 <br/>
 
@@ -87,8 +89,9 @@ The final rules for hospital price transparency are currently in effect! Since t
 of the final rule, you should [contact CMS directly](https://www.cms.gov/hospital-price-transparency/contact-us) to report the violation.
 
 ### Insurance Issuers
+
 Just as there are rules implemented by CMS and HHS requiring pricing transparency from hospitals, there are also rules requiring pricing transparency from health insurers. These rules require group health plans and health insurance issuers to disclose certain pricing and cost-sharing information to the public. In
-particular, this includes providing cost-sharing information for certain covered services for particular providers, which combined with hospital pricing transparency can be invaluable to consumers trying to understand their out of pocket costs for particular services, at particular facilities, with particular insurance. Insurers must provide this cost information via MRFs. Price transparency rules for health insurers are defined in HHS rule 85 FR 72158  (originally published 11/27/2019). The final rules effectively started on 7/1/2022, after mandatory compliance was delayed from an initial target of the beginning of 2022.
+particular, this includes providing cost-sharing information for certain covered services for particular providers, which combined with hospital pricing transparency can be invaluable to consumers trying to understand their out of pocket costs for particular services, at particular facilities, with particular insurance. Insurers must provide this cost information via MRFs. Price transparency rules for health insurers are defined in HHS rule 85 FR 72158 (originally published 11/27/2019). The final rules effectively started on 7/1/2022, after mandatory compliance was delayed from an initial target of the beginning of 2022.
 
 You can read about the transparency rules for insurers in the following locations:
 
@@ -118,15 +121,16 @@ This data can (will be able to be) be viewed in [`price_transparency/insurers/ma
 **Note:** As for hospitals, CMS outlines standard format for the file names for various insurer price transparency files that are required. Check out the CMS technical specification repo [here](https://github.com/CMSgov/price-transparency-guide) for more details.
 
 #### Report Violations
+
 The final rules for health plan price transparency are currently in effect! Since the rules are relatively new and enforcement has so far been limited, it is unclear how many health plans are in strict compliance. If you observe health plans who are not adhering to the requirements
 of the final rule, you should [contact CMS directly](https://mats.secure.force.com/pt) to report the violation.
-
 
 **Coming soon.**
 
 ## Practices Transparency
 
 **Coming soon.**
+
 <!-- TODO: Describe the broad goal of practices transparency, cite all existing rules, and known government provided data sources. . -->
 
 ### Hospitals
@@ -148,16 +152,15 @@ Here are some examples of sources that can be used to generate partial or incomp
 
 <!-- TODO: Add similar resources for other states here, or elsewhere. -->
 
--  **Federal Marketplace Plan Data**
-    - [Healthcare.gov researcher csvs](https://www.healthcare.gov/health-and-dental-plan-datasets-for-researchers-and-issuers/)
--  **State Marketplace Plan Data**:
-    - California
-        - [CA Department of Insurance](https://www.insurance.ca.gov/01-consumers/110-health/20-look/hcpcarriers.cfm)
+- **Federal Marketplace Plan Data**
+  - [Healthcare.gov researcher csvs](https://www.healthcare.gov/health-and-dental-plan-datasets-for-researchers-and-issuers/)
+- **State Marketplace Plan Data**:
+  - California
+    - [CA Department of Insurance](https://www.insurance.ca.gov/01-consumers/110-health/20-look/hcpcarriers.cfm)
 - **Federal Marketplace Practice Data**
-    - [CMS Public Use Files](https://www.cms.gov/CCIIO/Resources/Data-Resources/marketplace-puf)
+  - [CMS Public Use Files](https://www.cms.gov/CCIIO/Resources/Data-Resources/marketplace-puf)
 - **Federal Hospital Existence Data**
-    - [CMS 2022 Provider of Services Data](https://data.cms.gov/provider-characteristics/hospitals-and-other-facilities/provider-of-services-file-hospital-non-hospital-facilities)
-
+  - [CMS 2022 Provider of Services Data](https://data.cms.gov/provider-characteristics/hospitals-and-other-facilities/provider-of-services-file-hospital-non-hospital-facilities)
 
 ### Hospitals
 
@@ -183,7 +186,6 @@ We welcome contributions from all, and feedback and discussion of any form.
 
 Please see [`.github/CONTRIBUTING.md`](./.github/CONTRIBUTING.md) for more information about how to contribute to this project, or head to the github **Discussions** tab to join or start a conversation.
 
-
 ## Disclaimer
 
 While we aim to provide accurate and up to date information, we provide this data with no warranty or guarantee of its accuracy. We will do the best we can to verify the integrity of data provided here, but you should use it at your own risk, and avoid relying solely on it for critical matters. If you know
@@ -192,9 +194,34 @@ of any issues or mistakes in this data, please submit an issue or pull request, 
 In particular, if you are a representative of a health insurer, hospital or other provider and seek to correct any of our existing data, or provide
 information regarding missing data, your contribution is most welcome.
 
-## Citation
 
-If you find this data useful in your work, please consider mentioning it, providing a link, or citing it to help increase our exposure:
+## License
+
+
+
+**Data, Documentation and Other Media**
+
+The data, documentation, and media presented in this repository is licensed under <a rel="CC-BY-SA-4.0-license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
+See [`LICENSE.CC-BY-SA-4.0`](./LICENSE.CC-BY-SA-4.0) for a full text copy of this license.
+
+**Code**
+
+All original underlying source code in this repository, including that used to validate data submissions, parse other data sources, and adapt data formats, is licensed under <a rel="apache-2.0-license" href="https://www.apache.org/licenses/LICENSE-2.0">Apache 2.0 License</a>.
+
+See [`LICENSE`](./LICENSE) for a full text copy of this license.
+
+Please start a discussion thread for any question or concerns related to licensing.
+
+
+## Attribution
+
+If you find this data useful in your work, please consider mentioning it, providing a link, or citing it to help increase our exposure, even if you don't end up using it directly. We'd greatly appreciate that.
+
+In adhering to the attribution clause of the license governing the data, documentation and other media, you can attribute this work as
+"Persius Transparency Rules Supplemental Data", and share the url: [https://github.com/TPAFS/transparency-data](https://github.com/TPAFS/transparency-data)
+
+For publications that use this work, please use the following citation:
 
 ```latex
   @misc{persius2022transparency,
@@ -205,9 +232,8 @@ If you find this data useful in your work, please consider mentioning it, provid
 	year={2022},
 }
 ```
-
-
 ## Contact
+
 Feel free to reach out to community members, maintainers, or contributors via our discussions space with questions or comments.
 
 Contact info@persius.org for private correspondence if that is needed for any reason.
