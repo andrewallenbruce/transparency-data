@@ -33,7 +33,7 @@ www.mvphealthcare.com,"NY,VT",11125,mvp health insurance company,625 state stree
 www.deltadentalins.com,"DE,DE",11132,"delta dental of delaware, inc.",one delta drive,mechanicsburg,PA,17055,717-766-8500,510228088
 uhccommunityplan.com,TX,11141,"unitedhealthcare community plan of texas, l.l.c.",14141 southwest freeway,sugarland,TX,77478,832-500-6437,912008361
 www.horizonblue.com,NJ,11146,"horizon healthcare dental, inc.",3 penn plaaz east ste pp-15d,newark,NJ,07105-2248,973-466-5607,
-www.sssadvantage.com,PR,11152,"triple-s advantage, inc.","metro office park, building 4",guaynabo,PR,969,787-620-1919,
+www.sssadvantage.com,PR,11152,"triple-s advantage, inc.","metro office park, building 4",guaynabo,PR,00969,787-620-1919,
 www.mmm-pr.com,PR,11157,"mmm healthcare, llc.",350 chardon ave.,san juan,PR,918,787-622-3000,660588600
 www.libertydentalplan.com,NJ,11159,"liberty dental plan of new jersey, inc.",340 commerce suite 100,irvine,CA,92602,(888) 273-2997,
 www.cigna.com,MO,11160,cigna dental health of missouri inc.,1571 sawgrass corporate parkway suite 300,sunrise,FL,33323,954-514-6600,
@@ -45,7 +45,7 @@ www.healthplex.com,"NJ,NJ",11173,"international healthcare services, inc.",333 e
 www.cigna.com,CO,11175,cigna dental health of colorado inc.,"1571 sawgrass corporate parkway, suite 300",sunrise,FL,33323,954-514-6600,
 www.mypreferredcare.com,FL,11176,"preferred care partners, inc.",9100 south dadeland boulevard suite 1250,miami,FL,33156,305-670-8438,
 www.deltadentalnj.com,NJ,11179,"flagship health systems, inc.",1639 state route 10,parsippany,NJ,7869,973-285-4000,222671069
-pburtonk@aol.com,NJ,11182,"john d. kernan, dmd, pa",658 w cuthbert boulevard,westmont,NJ,8108,856-869-8660,
+pburtonk@aol.com,NJ,11182,"john d. kernan, dmd, pa",658 w cuthbert boulevard,westmont,NJ,08108,856-869-8660,
 www.aetna.com,NJ,11183,aetna dental inc. (a new jersey corporation),1425 union meeting road,,,,800-872-3862,
 ,NJ,11195,"dental delivery systems, inc.",,,,,,
 www.guardianlife.com,NJ,11199,managed dentalguard inc.,10 hudson yards,,,,212-919-3965,
@@ -55,8 +55,8 @@ www.connecticare.com,CT,11209,"connecticare insurance company, inc.",175 scott s
 www.guardianlife.com,"IN,IL",11221,first commonwealth limited health services corporation,"550 w. jackson blvd., suite 800",chicago,IL,60661,312-993-1000,363691770
 www.humana.com,"IL,KY,MO",11228,"compbenefits dental, inc.",500 west main street,louisville,KY,40202,502-580-1000,
 www.centene.com,"AR,IL,MS,SC,TN",11229,"harmony health plan, inc.",7700 forsyth boulevard,,,,314-725-4477,
-dentalservicesorganization.com,NJ,11234,"dental services organization, llc",510 thornall street suite 230,edison,NJ,8837,732-634-4810,
-www.dgnj.org,NJ,11241,"dental group of new jersey, inc.",924 n wood avenue,linden,NJ,7036,908-925-6022,
+dentalservicesorganization.com,NJ,11234,"dental services organization, llc",510 thornall street suite 230,edison,NJ,08837,732-634-4810,
+www.dgnj.org,NJ,11241,"dental group of new jersey, inc.",924 n wood avenue,linden,NJ,07036,908-925-6022,
 www.sunlife.com/us,NJ,11244,"union security dentalcare of new jersey, inc.",96 worcester street,,,,781-416-3184,
 ,NJ,11246,"group dental health administrators, inc.",,,,,,
 www.alliantplans.com,GA,11256,"alliant health plans, inc",201 w waugh street,dalton,GA,30720,706-629-8848 201,
@@ -112,7 +112,7 @@ www.aetnaseniorproducts.com,"AL,AR,AZ,CO,FL,IA,IL,IN,KS,KY,MI,MN,MO,MS,MT,NC,ND,
 www.uhccommunityplan.com,OH,12323,"unitedhealthcare community plan of ohio, inc.",9800 health care lane mn006-w500,minnetonka,MN,55343,952-931-4014,
 www.gatewayhealthplan.com,"KY,NC,OH",12325,"gateway health plan of ohio, inc.","four gateway center, 444 liberty avenue, ste 2100",pittsburgh,PA,15222-1222,412-255-4640,
 thcmi.com,"MI,MI",12326,"total health care usa, inc.",3011 w. grand blvd.,detroit,MI,48202,616-464-8931,383240485
-www.aetna-medicareadvantage.com,"NC,SC,TN",12328,aetna better health inc. (a georgia corporation),151 farmington avenue,hartford,CT,6156,800-872-3862,
+www.aetna-medicareadvantage.com,"NC,SC,TN",12328,aetna better health inc. (a georgia corporation),151 farmington avenue,hartford,CT,06156,800-872-3862,
 www.deltadentalins.com,WV,12329,"delta dental of west virginia, inc.",one delta drive,mechanicsburg,PA,17055,717-766-8500,
 www.phpni.com,IN,12331,"php insurance company of indiana, inc.","1700 magnavox way, ste 201",,,,260-432-6690,
 www.molinahealthcare.com,"OH,OH",12334,"molina healthcare of ohio, inc.",3000 corporate exchange drive,columbus,OH,43231,888-562-5442-212330,200750134
@@ -152,7 +152,7 @@ www.modernwoodmen.org,"AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,IA,ID,IL,IN,KS,KY,LA,MA,MD,
 http://www.royalneighbors.org,"AR,AZ,CA,CO,CT,DC,DE,FL,GA,IA,ID,IL,IN,KS,KY,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NJ,NM,NV,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",57657,royal neighbors of america,230 - 16th street,,,,309-788-4561,
 www.pfia1913.org,"CA,CO,DC,IN,KS,MN,OH,TX",58009,police and firemen's insurance association,101 east 116th street,carmel,IN,46032-4567,317-581-1913,
 www.everence.com,"AZ,CA,CO,DE,FL,IA,ID,IL,IN,KS,MD,MI,MN,MT,NC,NE,OH,OK,OR,PA,SC,SD,TN,TX,VA,WA,WV",57991,everence association inc,1110 north main street,goshen,IN,46528,574-533-9515,
-royalarcanum.com,"AZ,CA,CO,CT,DC,FL,GA,IL,IN,MA,MD,ME,MI,MO,MS,NC,NE,NH,NJ,NY,OH,OR,PA,RI,SC,TX,VA,VT,WA,WI,WV",58181,supreme council of the royal arcanum,61 batterymarch street,boston,MA,2110,617-426-4135,
+royalarcanum.com,"AZ,CA,CO,CT,DC,FL,GA,IL,IN,MA,MD,ME,MI,MO,MS,NC,NE,NH,NJ,NY,OH,OR,PA,RI,SC,TX,VA,VT,WA,WI,WV",58181,supreme council of the royal arcanum,61 batterymarch street,boston,MA,02110,617-426-4135,
 www.gleanerlife.org,"AZ,FL,GA,IA,IL,IN,KS,KY,MI,MO,NE,OH,PA,TN,VA,WI,WV",56154,gleaner life insurance society,5200 west u.s. hwy. 223,adrian,MI,49221-9461,517-263-2244,
 catholicunited.org,"IA,IL,IN,MI,MN,ND,OH,PA,SD,WI,WV,WY",57053,catholic united financial,3499 lexington ave n,,,,651-490-0170,
 www.thrivent.com,"AR,CA,MD,AL,WV,MS,MO,HI,UT,WY,KS,GA,PA,MA,IN,OR,OK,TX,AK,IA,NJ,AZ,SC,ID,CT,ND,NY,DE,CO,NH,MN,OH,NM,FL,NE,NV,DC,SD,NC,IL,WI,ME,MI,KY,MT,WA,VA,TN",56014,thrivent financial for lutherans,625 fourth avenue s.,minneapolis,MN,55415,800-847-4836,390123480
@@ -203,21 +203,21 @@ www.greatwest.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,M
 www.canadalifeus.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,RI,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",80659,the united states business of the canada life assurance company,8515 east orchard road,,,,800-537-2033,
 www.greatwest.com/ny,"IL,NY",79359,empower life & annuity insurance company of new york,8515 east orchard road,,,,800-537-2033,
 www.cigna.com,"NV,PA,PA,MN,HI,NJ,MP,ND,WI,NH,VI,MD,MD,DC,WV,NM,CA,CA,NC,NC,NY,VA,VA,FL,FL,ID,CO,CO,GA,GA,IL,IL,PR,SC,SC,TX,TX,MS,MS,DE,SD,WY,GU,VT,MA,MT,AK,MI,MO,MO,AR,KS,KS,IA,NE,AS,UT,UT,KY,AZ,AZ,CT,CT,OR,RI,OH,LA,OK,IN,IN,ME,AL,WA,TN,TN",67369,cigna health and life insurance company,900 cottage grove road,bloomfield,CT,6002,860-226-6000,591031071
-www.cigna.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,NY,OH,OK,OR,PA,PR,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",62308,connecticut general life insurance company,900 cottage grove road,bloomfield,CT,6002,860-226-6000,
+www.cigna.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,NY,OH,OK,OR,PA,PR,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",62308,connecticut general life insurance company,900 cottage grove road,bloomfield,CT,06002,860-226-6000,
 www.thehartford.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,GU,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,NY,OH,OK,OR,PA,PR,RI,SC,SD,TN,TX,UT,VA,VI,VT,WA,WI,WV,WY",70815,hartford life and accident insurance company,one hartford plaza,hartford,CT,06155-0001,860-547-5000,
 www.aetna.com,"AK,VI,LA,NY,SC,FL,NV,DE,DE,GU,TN,IN,PA,WA,VA,VA,WI,CO,KY,CT,CA,AL,WY,ID,MO,MO,UT,WV,NH,ME,HI,NE,NC,MT,OK,PR,OH,OH,MN,OR,MD,MD,IL,RI,DC,DC,IA,NM,MI,GA,AZ,KS,MA,VT,AR,ND,NJ,NJ,TX,TX,SD,MS",60054,aetna life insurance company,aetna life insurance company,hartford,CT,6156,800-872-3862,66033492
-www.nfg.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,NY,OH,OK,OR,PA,PR,RI,SC,SD,TN,TX,UT,VA,VI,VT,WA,WI,WV,WY",67814,nassau life insurance company,one american row,hartford,CT,6103,860-403-5000,
+www.nfg.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,NY,OH,OK,OR,PA,PR,RI,SC,SD,TN,TX,UT,VA,VI,VT,WA,WI,WV,WY",67814,nassau life insurance company,one american row,hartford,CT,06103,860-403-5000,
 www.aetna.com,CT,78700,aetna health and life insurance company,151 farmington avenue,hartford,CT,6156,800-872-3862,60876836
 www.unitedhealthgroup.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,PR,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",79413,unitedhealthcare insurance company,185 asylum street,hartford,CT,06103-3408,877-832-7734,
-www.nfg.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,HI,IA,ID,IL,KS,KY,LA,MD,ME,MI,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",93734,nassau life and annuity company,one american row,hartford,CT,6103,860-403-5000,
-www.nfg.com,"AL,AR,AZ,CA,CO,DE,FL,GA,IA,ID,IL,IN,KS,KY,LA,MA,MD,MI,MN,MO,MS,MT,NC,ND,NE,NM,NV,OH,OK,OR,PA,SC,SD,TN,TX,UT,VA,WA,WI,WY",68284,nassau life insurance company of kansas,one american row,hartford,CT,6103,860-403-5000,
-www.wiltonre.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,GU,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,NY,OH,OK,OR,PA,PR,RI,SC,SD,TN,TX,UT,VA,VI,VT,WA,WI,WV,WY",62413,wilcac life insurance company,20 glover avenue 4th floor,norwalk,CT,6850,203-762-4400,
-www.wiltonre.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,NY,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VI,VT,WA,WI,WV,WY",60704,wilton reassurance life company of new york,20 glover avenue 4th floor,norwalk,CT,6850,203-762-4400,
-https://www.meritlifegroup.com/,"AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NJ,NM,NV,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,WA,WI,WV,WY",65951,merit life insurance co.,"2 corporate drive, suite #760",shelton,CT,6484,833-637-4854,
-www.genre.com,"AK,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",97764,idealife insurance company,120 long ridge road,stamford,CT,6902,203-352-3000,
+www.nfg.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,HI,IA,ID,IL,KS,KY,LA,MD,ME,MI,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",93734,nassau life and annuity company,one american row,hartford,CT,06103,860-403-5000,
+www.nfg.com,"AL,AR,AZ,CA,CO,DE,FL,GA,IA,ID,IL,IN,KS,KY,LA,MA,MD,MI,MN,MO,MS,MT,NC,ND,NE,NM,NV,OH,OK,OR,PA,SC,SD,TN,TX,UT,VA,WA,WI,WY",68284,nassau life insurance company of kansas,one american row,hartford,CT,06103,860-403-5000,
+www.wiltonre.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,GU,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,NY,OH,OK,OR,PA,PR,RI,SC,SD,TN,TX,UT,VA,VI,VT,WA,WI,WV,WY",62413,wilcac life insurance company,20 glover avenue 4th floor,norwalk,CT,06850,203-762-4400,
+www.wiltonre.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,NY,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VI,VT,WA,WI,WV,WY",60704,wilton reassurance life company of new york,20 glover avenue 4th floor,norwalk,CT,06850,203-762-4400,
+https://www.meritlifegroup.com/,"AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NJ,NM,NV,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,WA,WI,WV,WY",65951,merit life insurance co.,"2 corporate drive, suite #760",shelton,CT,06484,833-637-4854,
+www.genre.com,"AK,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",97764,idealife insurance company,120 long ridge road,stamford,CT,06902,203-352-3000,
 www.talcottresolution.com,"CT,NY",88072,talcott resolution life insurance company,1 griffin road north,windsor,CT,6095,800-862-6668,60974148
 www.talcottresolution.com,FL,71153,talcott resolution life and annuity insurance company,1 griffin road north,windsor,CT,6095,800-862-6668,391052598
-www.vantislife.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",68632,vantis life insurance company,200 day hill road,windsor,CT,6095,860-298-6000,
+www.vantislife.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",68632,vantis life insurance company,200 day hill road,windsor,CT,06095,860-298-6000,
 www.metlife.com,DE,62634,delaware american life insurance company,600 king street,wilmington,DE,19801,302-594-2000,510104167
 afslic.com,"AL,AR,AZ,CO,CT,DE,GA,HI,IL,IN,KS,KY,MD,ME,MN,MO,MS,MT,NC,ND,NE,NM,NV,OH,OK,OR,PA,RI,SD,TX,UT,VA,WI",69337,american financial security life insurance company,"150  east palmetto park road, suite 450",,,,(561) 756-8130,
 www.allstate.com,"TX,MS,MT,UT,NE,IL,AR,SC,PA,NH,NY,RI,IA,MD,CT,NV,MO,WV,CA,PR,MI,KY,VT,NC,AK,WI,OR,ME,AZ,VA,KS,DC,WA,GA,FL,TN,DE,OK,IN,HI,WY,ID,OH,GU,LA,MN,AL,VI,NM,CO,NJ,MA,SD,ND",60534,american heritage life insurance company,1776 american heritage life drive,jacksonville,FL,32224,904-992-1776,590781901
@@ -322,17 +322,17 @@ www.mutualtrust.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA
 www.klic.com,"AR,LA,MS,OK,TX",74918,kilpatrick life insurance company,1818 marshall street,shreveport,LA,71101,318-222-0555,
 www.lifeofla.com,LA,75094,life insurance company of louisiana,214 milam street,shreveport,LA,71101,318-221-0646,
 www.johnhancock.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,NY,OH,OK,OR,PA,PR,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",93610,john hancock life & health insurance company,197 clarendon street,boston,MA,02116-5010,617-572-6000,
-www.brighthousefinancial.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,NY,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",91626,new england life insurance company,"125 high street, suite 732",boston,MA,2110,800-882-1292,
+www.brighthousefinancial.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,NY,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",91626,new england life insurance company,"125 high street, suite 732",boston,MA,02110,800-882-1292,
 www.johnhancock.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,PR,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",65838,john hancock life insurance company (usa),200 berkeley street,boston,MA,02116-5010,617-572-6000,
-www.globalatlantic.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,NY,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VI,VT,WA,WI,WV,WY",69140,first allmerica financial life insurance company,20 guest street,brighton,MA,2135,508-460-2400,
-www.globalatlantic.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VI,VT,WA,WI,WV,WY",84824,commonwealth annuity and life insurance company,20 guest street,brighton,MA,2135,508-460-2400,
+www.globalatlantic.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,NY,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VI,VT,WA,WI,WV,WY",69140,first allmerica financial life insurance company,20 guest street,brighton,MA,02135,508-460-2400,
+www.globalatlantic.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VI,VT,WA,WI,WV,WY",84824,commonwealth annuity and life insurance company,20 guest street,brighton,MA,02135,508-460-2400,
 www.bostonmutual.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,PR,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",61476,boston mutual life insurance company,120 royall street,canton,MA,02021-1098,781-828-7000,
 none,"AL,AR,CA,CO,CT,DE,GA,GU,KS,MA,MD,ME,MN,MT,NC,ND,NE,NH,NJ,NM,NY,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VI,VT,WI,WV",66265,monarch life insurance company,"330 whitney avenue, suite 500",holyoke,MA,01040-2857,413-784-2000,
-www.berkshirelife.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,NY,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",71714,berkshire life insurance company of america,700 south street,pittsfield,MA,1201,413-499-4321,
-www.massmutual.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,NY,OH,OK,OR,PA,PR,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",65935,massachusetts mutual life insurance company,1295 state street,springfield,MA,1111,413-788-8411,
-www.sbli.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",70435,the savings bank mutual life insurance company of massachusetts,one linscott road,woburn,MA,1801,781-994-5438,
-www.delawarelife.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,PR,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",79065,delaware life insurance company,"1601 trapelo road, suite 30",waltham,MA,2451,781-790-8600,
-www.delawarelife.com,"NY,RI",72664,delaware life insurance company of new york,"1601 trapelo road, suite 30",waltham,MA,2451,781-790-8600,
+www.berkshirelife.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,NY,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",71714,berkshire life insurance company of america,700 south street,pittsfield,MA,01201,413-499-4321,
+www.massmutual.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,NY,OH,OK,OR,PA,PR,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",65935,massachusetts mutual life insurance company,1295 state street,springfield,MA,01111,413-788-8411,
+www.sbli.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",70435,the savings bank mutual life insurance company of massachusetts,one linscott road,woburn,MA,01801,781-994-5438,
+www.delawarelife.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,PR,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",79065,delaware life insurance company,"1601 trapelo road, suite 30",waltham,MA,02451,781-790-8600,
+www.delawarelife.com,"NY,RI",72664,delaware life insurance company of new york,"1601 trapelo road, suite 30",waltham,MA,02451,781-790-8600,
 www.sunlife.com/us,"WA,CT,NY,NJ,PA,TX,FL",80926,sun life and health insurance company (u.s.),175 addison rd.,windsor,CT,6095,781-237-6030,60893662
 www.sunlife.com/us,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,PR,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",80802,united states branch of the sun life assurance company of canada,96 worcester street,,,,781-237-6030,
 www.sunlife.com/us,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",64602,independence life and annuity company,96 worcester street,,,,781-237-6030,
@@ -341,8 +341,8 @@ www.lgamerica.com,MD,94250,banner life insurance company,3275 bennett creek aven
 www.lgamerica.com,"AK,AZ,CT,DC,FL,IA,ID,KS,KY,MD,MS,MT,NH,NJ,NY,OK,OR,PA,RI,SC,SD,TN,TX,VT,WV",66230,william penn life insurance company of new york,3275 bennett creek avenue,frederick,MD,21704,301-279-4800,
 www.baltlife.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",61212,baltimore life insurance company,10075 red run boulevard,,,,410-581-6600,
 www.ullico.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,NY,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",69744,union labor life insurance company,8403 colesville rd,,,,202-682-0900,
-www.unum.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,PR,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",62235,unum life insurance company of america,2211 congress street,portland,ME,4122,207-575-2211,
-www.unum.com,NY,64297,first unum life insurance company,2211 congress street,portland,ME,4122,207-575-2211,
+www.unum.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,PR,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",62235,unum life insurance company of america,2211 congress street,portland,ME,04122,207-575-2211,
+www.unum.com,NY,64297,first unum life insurance company,2211 congress street,portland,ME,04122,207-575-2211,
 yourlifesecure.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NM,NV,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",77720,lifesecure insurance co.,"10559 citation drive, suite 300",brighton,MI,48116,810-220-7700,
 ,"AR,AZ,CA,CO,FL,IA,IL,IN,KS,KY,MD,MI,MN,MO,NC,ND,NE,NM,OH,OK,PA,SC,SD,TX,VA,WA,WI",84522,auto club life insurance company,,,,,,
 www.jackson.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",65056,jackson national life insurance company,1 corporate way,lansing,MI,48951,517-381-5500,
@@ -403,110 +403,109 @@ www.mutualofomaha.com,"AK,AL,AR,AZ,CA,CO,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,
 www.mutualofomaha.com,"AK,AR,AZ,CA,CT,DC,DE,HI,IA,ID,IL,IN,KS,KY,MA,ME,MI,MN,MO,MS,MT,NC,ND,NE,OH,OK,OR,PA,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",13100,omaha insurance company,3300 mutual of omaha plaza,omaha,NE,68175,402-342-7600,
 www.mutualofomaha.com,"AR,MI,MS,NE,OH,OK,TN,TX",16537,omaha supplemental insurance company,3300 mutual of omaha plaza,omaha,NE,68175,402-342-7600,
 www.mutualofomaha.com,"UT,WY,AL,GA,OK,MD,AZ,IL,FL,NH,SD,MI,AR,RI,TX,NM,VT,NC,OR,CO,KY,SC,ID,AK,AK,MT,PA,WI,MO,ND,IN,VA,LA,WV,WA,IA,ME,NE,TN,KS,DC,NV,OH,DE,MS,MA,MN",62243,companion life insurance company,7909 parklane road,columbia,SC,29223,402-342-7600,570523959
-www.companionlife.com,"UT,WY,AL,GA,OK,MD,AZ,IL,FL,NH,SD,MI,AR,RI,TX,NM,VT,NC,OR,CO,KY,SC,ID,AK,AK,MT,PA,WI,MO,ND,IN,VA,LA,WV,WA,IA,ME,NE,TN,KS,DC,NV,OH,DE,MS,MA,MN",77828,companion life insurance company,7909 parklane road,columbia,SC,29223,803-735-1251,570523959
 www.cso.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",61751,central states health and life co. of omaha,1212 north 96th street,omaha,NE,68114,402-397-1111,
-www.physiciansmutual.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",72125,physicians life insurance company,2600 dodge street,omaha,NE,68131-2671,402-633-1000,
-http://www.csi-omaha.com,"AL,AZ,CA,CO,CT,DC,FL,GA,IA,ID,IL,IN,KS,KY,LA,MD,ME,MI,MO,MS,MT,NC,ND,NE,NJ,NM,OH,OK,OR,PA,SD,TN,TX,UT,VA,VT,WA,WI,WV",82880,csi life insurance company,1212 north 96th street,omaha,NE,68114,402-997-8000,
-www.equitable.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,PR,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",78077,equitable financial life insurance company of america,525 washington blvd - controllers 29th floor,,,,201-743-5132,
-www.archcapgroup.com,"AK,AL,AR,AZ,CO,CT,DC,DE,FL,GA,HI,ID,IL,IN,KS,KY,MA,MD,MI,MN,MO,MS,MT,NC,ND,NE,NM,OH,OK,PA,RI,SC,SD,TN,TX,UT,WA,WY",71455,arch life insurance company of america,445 south st. ste. 220,morristown,NJ,07962-1988,973-889-6475,
-www.prudential.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,GU,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,NY,OH,OK,OR,PA,PR,RI,SC,SD,TN,TX,UT,VA,VI,VT,WA,WI,WV,WY",68241,the prudential insurance company of america,751 broad street,newark,NJ,07102-3777,877-301-1212,
-aflac.com,NY,60526,american family life assurance company of new york,22 corporate blvd,albany,NY,12211,706-243-8708,520807803
-www.elipslife.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",85561,elips life insurance company,175 king st.,armonk,NY,10504,847-273-1261,
-www.lumico.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NM,NV,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",73504,lumico life insurance company,175 king st.,armonk,NY,10504,877-794-7773,
+www.physiciansmutual.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",72125,physicians life insurance company,2600 dodge street,omaha,NE,68131-2671,402-397-1111,
+http://www.csi-omaha.com,"AL,AZ,CA,CO,CT,DC,FL,GA,IA,ID,IL,IN,KS,KY,LA,MD,ME,MI,MO,MS,MT,NC,ND,NE,NJ,NM,OH,OK,OR,PA,SD,TN,TX,UT,VA,VT,WA,WI,WV",82880,csi life insurance company,1212 north 96th street,omaha,NE,68114,402-633-1000,
+www.equitable.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,PR,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",78077,equitable financial life insurance company of america,525 washington blvd - controllers 29th floor,,,,402-997-8000,
+www.archcapgroup.com,"AK,AL,AR,AZ,CO,CT,DC,DE,FL,GA,HI,ID,IL,IN,KS,KY,MA,MD,MI,MN,MO,MS,MT,NC,ND,NE,NM,OH,OK,PA,RI,SC,SD,TN,TX,UT,WA,WY",71455,arch life insurance company of america,445 south st. ste. 220,morristown,NJ,07962-1988,201-743-5132,
+www.prudential.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,GU,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,NY,OH,OK,OR,PA,PR,RI,SC,SD,TN,TX,UT,VA,VI,VT,WA,WI,WV,WY",68241,the prudential insurance company of america,751 broad street,newark,NJ,07102-3777,973-889-6475,
+aflac.com,NY,60526,american family life assurance company of new york,22 corporate blvd,albany,NY,12211,877-301-1212,520807803
+www.elipslife.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",85561,elips life insurance company,175 king st.,armonk,NY,10504,706-243-8708,
+www.lumico.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NM,NV,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",73504,lumico life insurance company,175 king st.,armonk,NY,10504,847-273-1261,
 www.swissre.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,NY,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV",82627,swiss re life & health america inc.,175 king street,armonk,NY,10504,877-794-7773,
-www.lifeofboston.com,NY,78140,life insurance company of boston & new york,"4300 camp road, po box 331",,,,800-645-2317,
-www.smlny.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,NY,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",68772,security mutual life insurance company of new york,100 court st,binghamton,NY,13901-3479,607-723-3551,
-www.cfglife.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,NY,OH,OK,OR,PA,PR,RI,SC,SD,TN,TX,UT,VA,VI,VT,WA,WI,WV,WY",62103,columbian mutual life insurance company,"4704 vestal parkway east, p.o. box 1381",binghamton,NY,13902-1381,607-724-2472,
+www.lifeofboston.com,NY,78140,life insurance company of boston & new york,"4300 camp road, po box 331",,,,877-794-7773,
+www.smlny.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,NY,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",68772,security mutual life insurance company of new york,100 court st,binghamton,NY,13901-3479,800-645-2317,
+www.cfglife.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,NY,OH,OK,OR,PA,PR,RI,SC,SD,TN,TX,UT,VA,VI,VT,WA,WI,WV,WY",62103,columbian mutual life insurance company,"4704 vestal parkway east, p.o. box 1381",binghamton,NY,13902-1381,607-723-3551,
 www.cfglife.com,"AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,MI,MN,MO,MS,MT,NC,NE,NH,NJ,NM,NV,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",76023,columbian life insurance company,"4704 vestal parkway east, p.o. box 1381",binghamton,NY,13902-1381,607-724-2472,
-www.shelterpoint.com,"AK,AL,AR,AZ,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",89958,shelterpoint insurance company,1225 franklin avenue - suite 475,,,,516-829-8100,
+www.shelterpoint.com,"AK,AL,AR,AZ,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",89958,shelterpoint insurance company,1225 franklin avenue - suite 475,,,,607-724-2472,
 www.shelterpoint.com,"CO,CT,DC,DE,FL,IL,MA,MD,MI,MN,NC,NJ,NY,PA,RI,SC,TN",81434,shelterpoint life insurance company,1225 franklin avenue - suite 475,,,,516-829-8100,
-www.transamerica.com,"NJ,FL,DE,IN,AZ,CT,CO,MA,RI,LA,NC,PA,PR,MS,TX,AL,VA,MD,NY,GA,VT,SC,IL,OH,TN,CA",70688,transamerica financial life insurance company,440 mamaroneck avenue,harrison,NY,10528,914-627-3630,366071399
-www.combinedinsurance.com,"IL,NY",78697,combined life insurance company of new york,13 cornell road,latham,NY,12110,800-951-6206,
-http://www.nationalbenefitlife.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,NY,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VI,VT,WA,WI,WV,WY",61409,national benefit life insurance company,"30-30 47th avenue, suite 625",,,,718-361-3636,
-www.newyorklife.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,GU,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,PR,RI,SC,SD,TN,TX,UT,VA,VI,VT,WA,WI,WV,WY",65498,life insurance company of north america,51 madison avenue,,,,212-576-7000,
-www.sslicny.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,NY,OH,OK,OR,PA,PR,RI,SC,SD,TN,TX,UT,VA,VI,VT,WA,WI,WV,WY",69078,standard security life insurance company of new york,"485 madison avenue, 14th floor",,,,212-355-4141,
-www.equitable.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,NY,OH,OK,OR,PA,PR,RI,SC,SD,TN,TX,UT,VA,VI,VT,WA,WI,WV,WY",62944,equitable financial life insurance company,1290 avenue of the americas,,,,212-554-1234,
-www.metlife.com,"MI,MI,VT,AZ,AZ,AL,AL,TN,AK,ME,PR,MT,WY,WA,OH,OH,NC,NC,UT,IA,DC,NH,CT,ID,MN,NV,NJ,NJ,GA,GA,ND,OK,DE,NM,OR,GU,MS,SD,MO,MO,IN,VA,VA,VI,LA,KY,AR,NY,RI,WI,WI,IL,IL,HI,SC,CO,CO,NE,MD,CA,CA,TX,TX,MA,KS,WV,PA,PA,FL,FL",65978,metropolitan life insurance company,18210 crane nest drive,tampa,FL,33647,212-578-2211,135581829
-www.newyorklife.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,NY,OH,OK,OR,PA,PR,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",66915,new york life insurance company,51 madison avenue,,,,212-576-7000,
-tiaa.org,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,NY,OH,OK,OR,PA,PR,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",69345,teachers insurance and annuity association of america,730 third avenue,,,,212-490-9000,
-www.guardianlife.com,"ID,WA,FL,FL,MN,MN,AZ,AZ,AL,AL,OR,OR,PR,HI,HI,AR,ND,UT,UT,WY,AK,MS,MS,IA,IA,NV,NV,IN,IN,KS,KS,MT,MT,MI,MI,WI,WI,RI,RI,SD,OK,OK,LA,LA,TN,TN,VT,KY,KY,NE,NE",64246,guardian life insurance company of america,7 hanover square,new york,NY,10004,212-598-8000,135123390
-,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,NY,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",80896,centre life insurance company,,,,,,
+www.transamerica.com,"NJ,FL,DE,IN,AZ,CT,CO,MA,RI,LA,NC,PA,PR,MS,TX,AL,VA,MD,NY,GA,VT,SC,IL,OH,TN,CA",70688,transamerica financial life insurance company,440 mamaroneck avenue,harrison,NY,10528,516-829-8100,366071399
+www.combinedinsurance.com,"IL,NY",78697,combined life insurance company of new york,13 cornell road,latham,NY,12110,914-627-3630,
+http://www.nationalbenefitlife.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,NY,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VI,VT,WA,WI,WV,WY",61409,national benefit life insurance company,"30-30 47th avenue, suite 625",,,,800-951-6206,
+www.newyorklife.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,GU,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,PR,RI,SC,SD,TN,TX,UT,VA,VI,VT,WA,WI,WV,WY",65498,life insurance company of north america,51 madison avenue,,,,718-361-3636,
+www.sslicny.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,NY,OH,OK,OR,PA,PR,RI,SC,SD,TN,TX,UT,VA,VI,VT,WA,WI,WV,WY",69078,standard security life insurance company of new york,"485 madison avenue, 14th floor",,,,212-576-7000,
+www.equitable.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,NY,OH,OK,OR,PA,PR,RI,SC,SD,TN,TX,UT,VA,VI,VT,WA,WI,WV,WY",62944,equitable financial life insurance company,1290 avenue of the americas,,,,212-355-4141,
+www.metlife.com,"MI,MI,VT,AZ,AZ,AL,AL,TN,AK,ME,PR,MT,WY,WA,OH,OH,NC,NC,UT,IA,DC,NH,CT,ID,MN,NV,NJ,NJ,GA,GA,ND,OK,DE,NM,OR,GU,MS,SD,MO,MO,IN,VA,VA,VI,LA,KY,AR,NY,RI,WI,WI,IL,IL,HI,SC,CO,CO,NE,MD,CA,CA,TX,TX,MA,KS,WV,PA,PA,FL,FL",65978,metropolitan life insurance company,18210 crane nest drive,tampa,FL,33647,212-554-1234,135581829
+www.newyorklife.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,NY,OH,OK,OR,PA,PR,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",66915,new york life insurance company,51 madison avenue,,,,212-578-2211,
+tiaa.org,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,NY,OH,OK,OR,PA,PR,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",69345,teachers insurance and annuity association of america,730 third avenue,,,,212-576-7000,
+www.guardianlife.com,"ID,WA,FL,FL,MN,MN,AZ,AZ,AL,AL,OR,OR,PR,HI,HI,AR,ND,UT,UT,WY,AK,MS,MS,IA,IA,NV,NV,IN,IN,KS,KS,MT,MT,MI,MI,WI,WI,RI,RI,SD,OK,OK,LA,LA,TN,TN,VT,KY,KY,NE,NE",64246,guardian life insurance company of america,7 hanover square,new york,NY,10004,212-490-9000,135123390
+,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,NY,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",80896,centre life insurance company,,,,,212-598-8000,
 tiaa.org,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,NY,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",60142,tiaa-cref life insurance company,730 third avenue,,,,212-490-9000,
-www.metlife.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,NY,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",97136,metropolitan tower life insurance company,1095 avenue of the americas,,,,212-578-2211,
-www.prosperitylife.com,"AK,AL,AR,AZ,CA,CO,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NJ,NM,NV,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",60183,"s.usa life insurance company, inc.","100 west 33rd street, suite 1007",,,,212-356-0300,
+www.metlife.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,NY,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",97136,metropolitan tower life insurance company,1095 avenue of the americas,,,,212-490-9000,
+www.prosperitylife.com,"AK,AL,AR,AZ,CA,CO,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NJ,NM,NV,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",60183,"s.usa life insurance company, inc.","100 west 33rd street, suite 1007",,,,212-578-2211,
 www.prosperitylife.com,"AK,AL,AR,AZ,DC,GA,HI,IA,IL,IN,KY,MD,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NY,OH,OK,PA,PR,SC,SD,TN,TX,VA,VT,WA,WI,WV,WY",60176,"sbli usa life insurance company, inc.","100 west 33rd street, suite 1007",,,,212-356-0300,
-www.newyorklife.com,"AL,DC,MO,NY,PA,TN",64548,new york life group insurance company of ny,51 madison avenue,,,,212-576-7000,
-www.genworth.com,"CT,DC,DE,FL,IL,NJ,NY,RI,VA",72990,genworth life insurance company of new york,"600 third avenue, suite 2400",,,,212-895-4137,
-,NY,71005,first reliance standard life insurance company,153 east 53rd st,new york,NY,10022,,133176850
+www.newyorklife.com,"AL,DC,MO,NY,PA,TN",64548,new york life group insurance company of ny,51 madison avenue,,,,212-356-0300,
+www.genworth.com,"CT,DC,DE,FL,IL,NJ,NY,RI,VA",72990,genworth life insurance company of new york,"600 third avenue, suite 2400",,,,212-576-7000,
+,NY,71005,first reliance standard life insurance company,153 east 53rd st,new york,NY,10022,212-895-4137,133176850
 www.hmig.com,NY,60213,hm life insurance company of new york,420 fifth avenue,new york,NY,10018,800-328-5433,251800302
-www.assurantemployeebenefits.com,NY,81477,union security life insurance company of new york,212 highbridge st.,fayetteville,NY,13066,315-637-4232,132699219
-www.zurichamericanlifeinsurance.com,NY,14178,zurich american life insurance company of new york,"150 greenwich street, 4 world trade center, 54th f",,,,877-301-5376,
-www.elevancehealth.com,NY,13573,anthem life & disability insurance company,"1 penn plz, 35th floor",,,,212-563-5570,
-www.symetra.com,NY,78417,first symetra national life insurance company of new york,"420 lexington ave., suite 300",,,,425-256-8000,
-www.mutualofamerica.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,NY,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",88668,mutual of america life insurance company,320 park avenue,,,,212-224-1600,
-www.ameritasny.com,NY,60033,ameritas life insurance corp. of new york,"1350 broadway, suite 1710",,,,402-467-1122,
-www.athene.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,NY,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",68039,athene annuity & life assurance company of new york,"one blue hill plaza, ste 1672",,,,800-926-7599,
+www.assurantemployeebenefits.com,NY,81477,union security life insurance company of new york,212 highbridge st.,fayetteville,NY,13066,800-328-5433,132699219
+www.zurichamericanlifeinsurance.com,NY,14178,zurich american life insurance company of new york,"150 greenwich street, 4 world trade center, 54th f",,,,315-637-4232,
+www.elevancehealth.com,NY,13573,anthem life & disability insurance company,"1 penn plz, 35th floor",,,,877-301-5376,
+www.symetra.com,NY,78417,first symetra national life insurance company of new york,"420 lexington ave., suite 300",,,,212-563-5570,
+www.mutualofamerica.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,NY,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",88668,mutual of america life insurance company,320 park avenue,,,,425-256-8000,
+www.ameritasny.com,NY,60033,ameritas life insurance corp. of new york,"1350 broadway, suite 1710",,,,212-224-1600,
+www.athene.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,NY,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",68039,athene annuity & life assurance company of new york,"one blue hill plaza, ste 1672",,,,402-467-1122,
 www.athene.com,"CT,FL,IA,IL,IN,KS,KY,MA,MI,MS,NC,NJ,NV,NY,PA,RI,VT",63932,athene life insurance company of new york,"one blue hill plaza, ste 1672",,,,800-926-7599,
-www.medamericaltc.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",69515,medamerica insurance company,165 court street,rochester,NY,14647,585-238-4464,
+www.medamericaltc.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",69515,medamerica insurance company,165 court street,rochester,NY,14647,800-926-7599,
 www.medamericaltc.com,FL,12967,medamerica insurance company of florida,165 court street,rochester,NY,14647,585-238-4464,
-www.medamericaltc.com,NY,83437,medamerica insurance company of new york,165 court street,rochester,NY,14647,585-238-4351,
-www.protective.com,NY,66370,mony life insurance company,1290 avenue of the americas,new york,NY,10104,800-487-6669,131632487
-www.globelifeofnewyork.com,NY,74101,globe life insurance company of new york,"301 plainfield road, suite 150",syracuse,NY,13212,315-451-2544,
-www.johnhancocknewyork.com,NY,86375,john hancock life insurance company of new york,100 summit lake drive 2nd floor,valhalla,NY,10595,914-773-0708,
-www.gerberlife.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,NY,OH,OK,OR,PA,PR,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",70939,gerber life insurance company,"1311 mamaroneck avenue, suite 350",,,,914-272-4000,
-amalgamatedbenefits.com/amalgamated-life,"NC,NH,MI,PA,IL,WI,IA,GA,OH,NY,VA,TX,NV,NJ,MD,DE,DC",60216,amalgamated life insurance company,333 westchester ave.,white plains,NY,10604,914-367-5275,135501223
-www.standard.com,NY,89009,standard life insurance company of new york,"333 westchester avenue, west building, suite 300",,,,914-989-4400,
-www.massmutual.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,GU,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",63312,massmutual ascend life insurance company (known as great american life insurance company in ms & vi),301 east fourth street,cincinnati,OH,45202,513-361-9000,
-,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,PR,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",89206,ohio national life assurance corporation,,,,,,
+www.medamericaltc.com,NY,83437,medamerica insurance company of new york,165 court street,rochester,NY,14647,585-238-4464,
+www.protective.com,NY,66370,mony life insurance company,1290 avenue of the americas,new york,NY,10104,585-238-4351,131632487
+www.globelifeofnewyork.com,NY,74101,globe life insurance company of new york,"301 plainfield road, suite 150",syracuse,NY,13212,800-487-6669,
+www.johnhancocknewyork.com,NY,86375,john hancock life insurance company of new york,100 summit lake drive 2nd floor,valhalla,NY,10595,315-451-2544,
+www.gerberlife.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,NY,OH,OK,OR,PA,PR,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",70939,gerber life insurance company,"1311 mamaroneck avenue, suite 350",,,,914-773-0708,
+amalgamatedbenefits.com/amalgamated-life,"NC,NH,MI,PA,IL,WI,IA,GA,OH,NY,VA,TX,NV,NJ,MD,DE,DC",60216,amalgamated life insurance company,333 westchester ave.,white plains,NY,10604,914-272-4000,135501223
+www.standard.com,NY,89009,standard life insurance company of new york,"333 westchester avenue, west building, suite 300",,,,914-367-5275,
+www.massmutual.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,GU,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",63312,massmutual ascend life insurance company (known as great american life insurance company in ms & vi),301 east fourth street,cincinnati,OH,45202,914-989-4400,
+,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,PR,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",89206,ohio national life assurance corporation,,,,,513-361-9000,
 ,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,PR,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",67172,ohio national life insurance company,,,,,,
 www.lafayettelife.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",65242,the lafayette life insurance company,400 broadway,cincinnati,OH,45202,513-362-4900,
-www.massmutual.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",67083,manhattan national life insurance company,301 east fourth street,cincinnati,OH,45202,513-361-9000,
-www.columbuslife.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",99937,columbus life insurance company,400 east 4th street,cincinnati,OH,45202-3302,513-361-6700,
-www.westernsouthernlife.com,"AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MD,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",70483,the western and southern life insurance company,400 broadway,cincinnati,OH,45202,513-629-1800,
-www.nationalintegrity.com,"CT,DC,FL,ME,NH,NY,OH,RI,VT",75264,national integrity life insurance company,400 broadway,cincinnati,OH,45202,513-629-1402,
-www.cineqlife.com,"GA,IN,KY,MI,MS,OH,PA,TN",88064,cincinnati equitable life insurance company,"525 vine street, suite 1925",cincinnati,OH,45202,513-621-1826,
-https://home.globelifeinsurance.com/fami,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,PR,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",77968,family heritage life insurance company of america,"6001 east royalton road, suite 200",cleveland,OH,44147-3529,440-922-5200,
-www.medmutuallife.com,"AR,AZ,CO,DC,DE,GA,IA,IL,IN,KS,KY,LA,MD,MI,MN,MO,MS,MT,ND,NE,NJ,NM,NV,OH,OK,OR,PA,SD,TX,UT,VA,WI,WV,WY",62375,medmutual life insurance company,2060 east ninth street,cleveland,OH,44115-1355,216-687-7000,
-www.nationwide.com,"MA,HI,CO,UT,DE,AR,NC,MO,WI,DC,OK,WY,IL,VT,MT,SC,OH,MS,NY,AK,NE,ME,TX,IA,IN,CT,LA,AZ,PA,RI,MI,WV,KY,SD,MD,AL,NM,OR,NH,GA,NJ,TN,KS,FL,VA,ID,CA,WA,ND,NV,MN",66869,nationwide life insurance company,one west nationwide blvd,columbus,OH,43215,614-249-1545,314156830
-www.elevancehealth.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,SC,SD,TN,TX,UT,VA,WA,WI,WV,WY",61069,anthem life insurance company,"8940 lyra drive, suite 300",columbus,OH,43240,614-433-8800,
-www.grangeinsurance.com,"GA,IA,IL,IN,KS,KY,MI,MN,MO,OH,PA,SC,TN,VA,WI",71218,grange life insurance company,671 south high street,columbus,OH,43206-1066,800-399-3797,
-www.cinfin.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",76236,cincinnati life insurance company,6200 south gilmore road,fairfield,OH,45014-5141,513-870-2000,
-www.medben.com,"AR,IL,IN,KS,MI,MO,NC,OH,SC,TN,WV",74322,medical benefits mutual life insurance co.,1975 tamarack road,newark,OH,43055,800-423-3151,
-http://indyhealthinc.com/,AR,88820,indy health insurance company,273-a west schrock rd,westerville,OH,43081,614-414-0249,
-,"AR,OK,TX",70548,wichita national life insurance company,,,,,,
+www.massmutual.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",67083,manhattan national life insurance company,301 east fourth street,cincinnati,OH,45202,513-362-4900,
+www.columbuslife.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",99937,columbus life insurance company,400 east 4th street,cincinnati,OH,45202-3302,513-361-9000,
+www.westernsouthernlife.com,"AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MD,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",70483,the western and southern life insurance company,400 broadway,cincinnati,OH,45202,513-361-6700,
+www.nationalintegrity.com,"CT,DC,FL,ME,NH,NY,OH,RI,VT",75264,national integrity life insurance company,400 broadway,cincinnati,OH,45202,513-629-1800,
+www.cineqlife.com,"GA,IN,KY,MI,MS,OH,PA,TN",88064,cincinnati equitable life insurance company,"525 vine street, suite 1925",cincinnati,OH,45202,513-629-1402,
+https://home.globelifeinsurance.com/fami,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,PR,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",77968,family heritage life insurance company of america,"6001 east royalton road, suite 200",cleveland,OH,44147-3529,513-621-1826,
+www.medmutuallife.com,"AR,AZ,CO,DC,DE,GA,IA,IL,IN,KS,KY,LA,MD,MI,MN,MO,MS,MT,ND,NE,NJ,NM,NV,OH,OK,OR,PA,SD,TX,UT,VA,WI,WV,WY",62375,medmutual life insurance company,2060 east ninth street,cleveland,OH,44115-1355,440-922-5200,
+www.nationwide.com,"MA,HI,CO,UT,DE,AR,NC,MO,WI,DC,OK,WY,IL,VT,MT,SC,OH,MS,NY,AK,NE,ME,TX,IA,IN,CT,LA,AZ,PA,RI,MI,WV,KY,SD,MD,AL,NM,OR,NH,GA,NJ,TN,KS,FL,VA,ID,CA,WA,ND,NV,MN",66869,nationwide life insurance company,one west nationwide blvd,columbus,OH,43215,216-687-7000,314156830
+www.elevancehealth.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,SC,SD,TN,TX,UT,VA,WA,WI,WV,WY",61069,anthem life insurance company,"8940 lyra drive, suite 300",columbus,OH,43240,614-249-1545,
+www.grangeinsurance.com,"GA,IA,IL,IN,KS,KY,MI,MN,MO,OH,PA,SC,TN,VA,WI",71218,grange life insurance company,671 south high street,columbus,OH,43206-1066,614-433-8800,
+www.cinfin.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",76236,cincinnati life insurance company,6200 south gilmore road,fairfield,OH,45014-5141,800-399-3797,
+www.medben.com,"AR,IL,IN,KS,MI,MO,NC,OH,SC,TN,WV",74322,medical benefits mutual life insurance co.,1975 tamarack road,newark,OH,43055,513-870-2000,
+http://indyhealthinc.com/,AR,88820,indy health insurance company,273-a west schrock rd,westerville,OH,43081,800-423-3151,
+,"AR,OK,TX",70548,wichita national life insurance company,,,,,614-414-0249,
 ,OK,98868,sheridan life insurance company,,,,,,
 www.americanfidelity.com,"TX,OH,IL,IN,AL,OK,GA,ND,MO,HI,VT,WI,NM,TN,VA,MT,OR,AZ,SC,SD,FL,WY,MS,WA,MA,KS,CO,KY,NE,NC,DE,AK,NY,LA,AR,CT,NV,WV,IA,MI,CA,DC,ID,NJ,PA,MD,NH",60410,american fidelity assurance company,2000 classen blvd,oklahoma city,OK,73106,405-523-2000,730714500
-kemper.com,"IN,AK,ID,OH,IA,HI,GA,NM,CO,AL,WI,IL,NY,SD,NE,WA,FL,MT,UT,WY,KS,ME,MO,OK,AR,NV,TN,VT,TX,MS,MI,AZ,NC,ND,KY,SC,CA,VA,LA,OR,MD",68462,reserve national insurance company,601 e. britton rd.,oklahoma city,OK,73114,405-848-7931,730661453
-iaclife.com,"AK,AL,AR,AZ,CA,CO,DC,DE,FL,GA,GU,HI,IA,ID,IL,IN,KS,KY,LA,MD,MI,MN,MO,MS,MT,NC,ND,NE,NJ,NM,NV,OH,OK,OR,PA,SC,SD,TN,TX,UT,VA,WA,WI,WV,WY",81779,individual assur co life hlth & acc,"5500 n. western ave., suite 200",,,,405-285-0838,
-http://www.lifeshieldnational.com,"AL,AR,AZ,CA,CO,CT,DC,FL,GA,IA,ID,IL,IN,KS,KY,LA,MA,MD,MI,MN,MO,MS,MT,NC,ND,NE,NM,NV,OH,OK,OR,PA,SC,SD,TN,TX,UT,VA,WA,WV,WY",99724,lifeshield national insurance co.,"5500 n. western, suite 200",,,,405-236-2640,
-www.uflic.com,"AR,AZ,MS,NE,NM,OK,TX",70122,universal fidelity life insurance company,13931 quail pointe drive,,,,1-800-366-8354,
-,"AR,CO,KS,MO,MT,NC,NE,NM,OK,TX",67326,old surety life insurance company,,,,,,
+kemper.com,"IN,AK,ID,OH,IA,HI,GA,NM,CO,AL,WI,IL,NY,SD,NE,WA,FL,MT,UT,WY,KS,ME,MO,OK,AR,NV,TN,VT,TX,MS,MI,AZ,NC,ND,KY,SC,CA,VA,LA,OR,MD",68462,reserve national insurance company,601 e. britton rd.,oklahoma city,OK,73114,405-523-2000,730661453
+iaclife.com,"AK,AL,AR,AZ,CA,CO,DC,DE,FL,GA,GU,HI,IA,ID,IL,IN,KS,KY,LA,MD,MI,MN,MO,MS,MT,NC,ND,NE,NJ,NM,NV,OH,OK,OR,PA,SC,SD,TN,TX,UT,VA,WA,WI,WV,WY",81779,individual assur co life hlth & acc,"5500 n. western ave., suite 200",,,,405-848-7931,
+http://www.lifeshieldnational.com,"AL,AR,AZ,CA,CO,CT,DC,FL,GA,IA,ID,IL,IN,KS,KY,LA,MA,MD,MI,MN,MO,MS,MT,NC,ND,NE,NM,NV,OH,OK,OR,PA,SC,SD,TN,TX,UT,VA,WA,WV,WY",99724,lifeshield national insurance co.,"5500 n. western, suite 200",,,,405-285-0838,
+www.uflic.com,"AR,AZ,MS,NE,NM,OK,TX",70122,universal fidelity life insurance company,13931 quail pointe drive,,,,405-236-2640,
+,"AR,CO,KS,MO,MT,NC,NE,NM,OK,TX",67326,old surety life insurance company,,,,,1-800-366-8354,
 lacinc.com,OK,85677,"life assurance company, inc.","5500 n. western ave., suite 200",,,,405-285-0838,
-www.familybenefitlife.com,"AL,AR,AZ,CO,IL,IN,KS,KY,LA,MI,MO,MS,MT,NC,ND,NE,NM,OH,OK,PA,SD,TN,TX,VA,WV",70742,family benefit life insurance company,"7633 e 63rd pl, ste 230",tulsa,OK,74133-1246,918-249-2438,
+www.familybenefitlife.com,"AL,AR,AZ,CO,IL,IN,KS,KY,LA,MI,MO,MS,MT,NC,ND,NE,NM,OH,OK,PA,SD,TN,TX,VA,WV",70742,family benefit life insurance company,"7633 e 63rd pl, ste 230",tulsa,OK,74133-1246,405-285-0838,
 www.trinitylifeinsurance.com,"AL,GA,IL,IN,KS,KY,LA,MS,MT,ND,NE,OH,OK,SD,TN,TX,WV",60227,trinity life insurance company,"7633 e 63rd pl, ste 230",tulsa,OK,74133-1246,918-249-2438,
-www.leaderslife.com,"AL,AR,FL,KS,LA,MO,MS,NC,OK,SD,TX",74799,leaders life insurance company,"1350 south boulder, suite 900",tulsa,OK,74119,918-254-0200,
-www.standard.com,"HI,NY,WA,MD,DE,OR,NH,MN,IA,IL,ND,VA,MI,DC,NV,MS,ME,OH,NJ,UT,AZ,AR,NC,LA,SD,CT,OK,WI,WV,AL,CA,IN,RI,FL,KY,MA,GA,NM,VT,PA,AK,MO,KS,SC,ID,WY,MT,NE,CO,TN,TX",69019,standard insurance company,500 sw fifth ave,portland,OR,97204,971-321-7000,930242990
-www.lifemapco.com,"WA,AK,WY,MT,OR,UT,ID",97985,lifemap assurance company,100 sw market st ms e3a,portland,OR,97201,503-225-5221,936030398
-www.erieinsurance.com,"DC,IL,IN,KY,MD,MN,NC,OH,PA,TN,VA,WI,WV",70769,erie family life insurance company,100 erie insurance place,erie,PA,16530,814-870-2000,
-www.pennmutual.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,NY,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",67644,the penn mutual life insurance company,600 dresher road,horsham,PA,19044,215-956-8000,
-www.reliancestandard.com,"UT,SD,AR,MD,LA,ID,RI,DC,AL,ND,VT,SC,NH,OK,CA,MA,NM,MI,MS,OR,VA,NE,WV,IL,MT,MN,KY,OH,AZ,DE,GA,TX,ME,PA,TN,NJ,CT,WY,NC,KS,AK,NV,FL,IA,WI,WA,IN,MO,HI,CO",68381,reliance standard life insurance company,"111 south wacker drive, suite 4400",chicago,IL,60606,267-256-3500,360883760
-www.colonialpenn.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,PR,RI,SC,SD,TN,TX,UT,VA,VI,VT,WA,WI,WV,WY",62065,colonial penn life insurance company,399 market street,philadelphia,PA,19181,215-928-8000,
-www.hmig.com,"ID,AZ,NE,IA,CA,FL,NC,OH,PA,IL,MS,LA,MI,MO,GA,RI,IN,NV,MD,VA,TX",93440,hm life insurance company,120 fifth avenue,pittsburgh,PA,15222,800-328-5433,61041332
-www.usaofpa.com,"AK,AR,AZ,CA,CO,DC,DE,FL,GA,ID,IL,IN,KS,KY,LA,MD,MI,MN,MO,MS,MT,NC,ND,NE,NV,OH,OK,OR,PA,SC,SD,TN,TX,UT,VA,WA,WI,WV",42129,united security assurance company of pennsylvania,673 east cherry lane,souderton,PA,18964-1260,215-723-3044,
-www.venerable.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",80942,venerable insurance and annuity company,"1475 dunwoody drive, suite 200",,,,610-249-9531,
-www.universalpr.com,PR,60041,universal life insurance company,metro office park calle 1 lote 10,guaynabo,PR,969,787-706-7337,
-www.multinationallife.com,PR,72087,multinational life insurance company,470 ponce de leon ave,,,,(787-758-8080),
-www.sssvida.com,"PR,VI",73814,"triple-s vida, inc.",1052 munoz rivera,,,,787-777-8432,
-www.tolic.com,"FL,PR,VI",69523,trans-oceanic life insurance company,#121 oneill,,,,787-620-2680-2319,
-www.calac.com,PR,73156,caribbean american life assurance company,350 carlos chardon ave suite 1101,,,,787-250-6470,
-www.humana.com,PR,84603,"humana insurance of puerto rico, inc",383 fd roosevelt avenue,,,,787-282-7900,
-www.palig.com,PR,12952,pan american life insurance company of puerto rico,post office box 364865,,,,787-620-1414,
-www.mapfre.pr,"PR,VI",77054,mapfre life insurance company of puerto rico,urb. ind. tres monjitas 297 ave. chardón,,,,787-250-6500,
-www.mcs.com.pr,PR,60030,mcs life insurance company,mcs plaza,san juan,PR,917,787-758-2500-2920,660520918
-www.cosvi.com,PR,79715,"cooperativa de seguros de vida de pr, cosvi",400 americo miranda,,,,787-751-5656,
-www.aclico.com,"AK,AL,AR,AZ,CO,FL,GA,HI,IA,IL,IN,KS,KY,LA,MA,MD,MO,MS,MT,NC,ND,NE,OH,OK,OR,PA,SC,SD,TN,TX,VA,VT,WA,WV,WY",61115,atlantic coast life insurance company,1565 sam rittenberg boulevard,charleston,SC,29407,843-763-8680,
-www.coloniallife.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,PR,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",62049,colonial life & accident insurance company,1200 colonial life boulevard,columbia,SC,29210,803-798-7000,
-www.caicworksite.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",71730,continental american insurance company,1600 williams street,columbia,SC,29201,706-243-8708,
+www.leaderslife.com,"AL,AR,FL,KS,LA,MO,MS,NC,OK,SD,TX",74799,leaders life insurance company,"1350 south boulder, suite 900",tulsa,OK,74119,918-249-2438,
+www.standard.com,"HI,NY,WA,MD,DE,OR,NH,MN,IA,IL,ND,VA,MI,DC,NV,MS,ME,OH,NJ,UT,AZ,AR,NC,LA,SD,CT,OK,WI,WV,AL,CA,IN,RI,FL,KY,MA,GA,NM,VT,PA,AK,MO,KS,SC,ID,WY,MT,NE,CO,TN,TX",69019,standard insurance company,500 sw fifth ave,portland,OR,97204,918-254-0200,930242990
+www.lifemapco.com,"WA,AK,WY,MT,OR,UT,ID",97985,lifemap assurance company,100 sw market st ms e3a,portland,OR,97201,971-321-7000,936030398
+www.erieinsurance.com,"DC,IL,IN,KY,MD,MN,NC,OH,PA,TN,VA,WI,WV",70769,erie family life insurance company,100 erie insurance place,erie,PA,16530,503-225-5221,
+www.pennmutual.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,NY,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",67644,the penn mutual life insurance company,600 dresher road,horsham,PA,19044,814-870-2000,
+www.reliancestandard.com,"UT,SD,AR,MD,LA,ID,RI,DC,AL,ND,VT,SC,NH,OK,CA,MA,NM,MI,MS,OR,VA,NE,WV,IL,MT,MN,KY,OH,AZ,DE,GA,TX,ME,PA,TN,NJ,CT,WY,NC,KS,AK,NV,FL,IA,WI,WA,IN,MO,HI,CO",68381,reliance standard life insurance company,"111 south wacker drive, suite 4400",chicago,IL,60606,215-956-8000,360883760
+www.colonialpenn.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,PR,RI,SC,SD,TN,TX,UT,VA,VI,VT,WA,WI,WV,WY",62065,colonial penn life insurance company,399 market street,philadelphia,PA,19181,267-256-3500,
+www.hmig.com,"ID,AZ,NE,IA,CA,FL,NC,OH,PA,IL,MS,LA,MI,MO,GA,RI,IN,NV,MD,VA,TX",93440,hm life insurance company,120 fifth avenue,pittsburgh,PA,15222,215-928-8000,61041332
+www.usaofpa.com,"AK,AR,AZ,CA,CO,DC,DE,FL,GA,ID,IL,IN,KS,KY,LA,MD,MI,MN,MO,MS,MT,NC,ND,NE,NV,OH,OK,OR,PA,SC,SD,TN,TX,UT,VA,WA,WI,WV",42129,united security assurance company of pennsylvania,673 east cherry lane,souderton,PA,18964-1260,800-328-5433,
+www.venerable.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",80942,venerable insurance and annuity company,"1475 dunwoody drive, suite 200",,,,215-723-3044,
+www.universalpr.com,PR,60041,universal life insurance company,metro office park calle 1 lote 10,guaynabo,PR,00969,610-249-9531,
+www.multinationallife.com,PR,72087,multinational life insurance company,470 ponce de leon ave,,,,787-706-7337,
+www.sssvida.com,"PR,VI",73814,"triple-s vida, inc.",1052 munoz rivera,,,,(787-758-8080),
+www.tolic.com,"FL,PR,VI",69523,trans-oceanic life insurance company,#121 oneill,,,,787-777-8432,
+www.calac.com,PR,73156,caribbean american life assurance company,350 carlos chardon ave suite 1101,,,,787-620-2680-2319,
+www.humana.com,PR,84603,"humana insurance of puerto rico, inc",383 fd roosevelt avenue,,,,787-250-6470,
+www.palig.com,PR,12952,pan american life insurance company of puerto rico,post office box 364865,,,,787-282-7900,
+www.mapfre.pr,"PR,VI",77054,mapfre life insurance company of puerto rico,urb. ind. tres monjitas 297 ave. chardón,,,,787-620-1414,
+www.mcs.com.pr,PR,60030,mcs life insurance company,mcs plaza,san juan,PR,917,787-250-6500,660520918
+www.cosvi.com,PR,79715,"cooperativa de seguros de vida de pr, cosvi",400 americo miranda,,,,787-758-2500-2920,
+www.aclico.com,"AK,AL,AR,AZ,CO,FL,GA,HI,IA,IL,IN,KS,KY,LA,MA,MD,MO,MS,MT,NC,ND,NE,OH,OK,OR,PA,SC,SD,TN,TX,VA,VT,WA,WV,WY",61115,atlantic coast life insurance company,1565 sam rittenberg boulevard,charleston,SC,29407,787-751-5656,
+www.coloniallife.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,PR,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",62049,colonial life & accident insurance company,1200 colonial life boulevard,columbia,SC,29210,843-763-8680,
+www.caicworksite.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",71730,continental american insurance company,1600 williams street,columbia,SC,29201,803-798-7000,
 www.thedoctors.com,"AZ,CA,HI,MT,NV,TX,WY",92444,companion life insurance company of california,"1301 gervais street, suite 900",columbia,SC,29201,803-735-1251,
 ,"GA,SC",65480,"old spartan life insurance company, inc.",,,,,,
 www.unum.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,NY,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",67598,the paul revere life insurance company,1 fountain square,chattanooga,TN,37402-1330,423-294-1011,
@@ -583,7 +582,7 @@ www.5starlifeinsurance.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,K
 www.genworth.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,PR,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",70025,genworth life insurance company,6604 west broad street,richmond,VA,23230,804-662-2400,
 www.genworth.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",65536,genworth life and annuity insurance company,6610 west broad street,richmond,VA,23230,804-662-2400,
 www.prosperitylife.com,"AK,AL,AR,AZ,CO,DC,DE,FL,GA,HI,IA,IL,IN,KS,KY,LA,MD,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,OH,OK,PA,SC,TN,TX,VA,VT,WA,WI,WV,WY",68845,shenandoah life insurance company,"4415 pheasant ridge road, suite 300",roanoke,VA,24014,540-985-4400,
-www.nationallife.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,NY,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",66680,national life insurance company,1 national life drive,montpelier,VT,5604,802-229-3333,
+www.nationallife.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,NY,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",66680,national life insurance company,1 national life drive,montpelier,VT,05604,802-229-3333,
 www.symetra.com,"CO,IA,TX,NJ,FL,IL,GA,OR,MN,WA",68608,symetra life insurance company,4125 westown parkway suite 102,west des moines,IA,50266,425-256-8000,910742147
 www.farmers.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",63177,farmers new world life insurance company,"3120 139th avenue southeast, suite 300",bellevue,WA,98005-4491,206-232-8400,
 manhattanlife.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MO,MS,MT,NC,ND,NE,NH,NV,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",85189,western united life assurance company,929 west sprague ave.,spokane,WA,99201,713-529-0045,
@@ -613,7 +612,7 @@ www.ashcompanies.com,"CO,HI,PA,CA,TX,OR,IL",84697,american specialty health insu
 www.elevancehealth.com,CA,62825,anthem blue cross life and health insurance company,21215 burbank boulevard,,,,855-206-2004,
 www.accesshealthco.com,CO,15106,new health ventures inc,10065 e harvard ave,denver,CO,80231,720-744-5100,462402685
 www.fridayhealthplans.com,"TX,TX",16803,friday health insurance company inc,700 main street,alamosa,CO,81101,719-589-3696,850957671
-www.deltadentalct.com,CT,15987,delta dental of connecticut inc,"148 eastern blvd, ste.301",glastonbury,CT,6033,860-633-9200,
+www.deltadentalct.com,CT,15987,delta dental of connecticut inc,"148 eastern blvd, ste.301",glastonbury,CT,06033,860-633-9200,
 www.aetna.com,NY,84450,aetna health insurance company of new york,"101 park avenue, 15th floor",new york,NY,10178,800-872-3862,570805126
 www.elevancehealth.com,CT,60217,"anthem health plans, inc.",108 leigus road,wallingford,CT,06492-2518,203-677-4000,
 www.bcbsfl.com,FL,98167,"blue cross and blue shield of florida, inc.",4800 deerwood campus parkway,jacksonville,FL,32246,904-791-6111,
@@ -651,11 +650,11 @@ www.bcbsla.com,LA,81200,louisiana health service and indemnity company,5525 reit
 www.aetnabetterhealth.com,"LA,MS",15616,"aetna better health, inc. (a louisiana corporation)","2400 veterans memorial boulevard, suite 200",kenner,LA,70062,504-667-4461,
 www.magnamonroe.com,"AL,AR,FL,IL,KY,MO,MS,TN,TX",61018,magna insurance company,895 park avenue,mandeville,LA,70448-4920,985-206-5113,
 www.dentaquestgov.com,"FL,AL,AL,TX,TX,KY,KY,NJ,NJ,MI,MI,TN,TN,WI,WI,PA,PA,AZ,AZ,UT,UT,VA,VA,MO,MO,IN,IN,IL,IL,GA,GA,OH,OH",96265,"dental care plus, inc.",100 crowne point place,sharonville,OH,45241,617-886-1818,311185262
-http://www.dentaquest.com/,"AZ,GA,IL,KY,MA,MO,NM,OH,PA,TX,VA,WA,WI",67636,"dsm usa insurance company, inc.",465 medford street,boston,MA,2129,617-886-1818,
+http://www.dentaquest.com/,"AZ,GA,IL,KY,MA,MO,NM,OH,PA,TX,VA,WA,WI",67636,"dsm usa insurance company, inc.",465 medford street,boston,MA,02129,617-886-1818,
 www.tuftshealthplan.com,"OH,TX,VT,RI,CT,IL,MA,NH,CA,NY,FL",60117,tufts insurance company,705 mouny auburn street,watertown,MA,2472,617-972-9400-84518,43319729
 www.allwayshealthpartners.org,MA,16375,allways health partners insurance company,"399 revolution drive, suite 810",somerville,MA,02145-1446,800-433-5556,
 www.hne.com,MA,14198,"hne insurance company, inc","1 monarch place, suite 1500",,,,413-787-4000,
-www.devoted.com,OH,16758,"devoted health plan of ohio, inc.",221 crescent street suite 202,waltham,MA,2453,860-916-9120,
+www.devoted.com,OH,16758,"devoted health plan of ohio, inc.",221 crescent street suite 202,waltham,MA,02453,860-916-9120,
 www.fallonhealth.org,MA,66828,fallon health and life assurance co. inc.,10 chestnut street,worcester,MA,01608-2810,508-799-2100,
 www.uhc.com,"DC,MD,VA,WV",60321,mamsi life and health insurance company,"10175 little patuxent parkway, 6th floor",columbia,MD,21044,240-683-5250,
 www.carefirst.com,"DC,MD,VA",60113,"firstcare, inc.",10455 mill run circle,,,,410-581-3000,
@@ -705,7 +704,7 @@ amfirstinsco.com,"AK,AL,AR,AZ,CA,FL,HI,IA,IL,IN,KS,LA,MD,MI,MO,MS,NC,OH,OK,PA,SC
 www.mutualofomaha.com,"AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",88080,omaha health insurance company,3300 mutual of omaha plaza,omaha,NE,68175,402-342-7600,
 www.nebraskablue.com,NE,77780,"blue cross and blue shield of nebraska, inc.",1919 aksarben drive,omaha,NE,68180,402-819-4242,
 www.mutualofomaha.com,TX,13120,medicare advantage insurance company of omaha,3300 mutual of omaha plaza,omaha,NE,68175,402-342-7600,
-www.elevancehealth.com,"GA,NH",53759,"anthem health plans of new hampshire, inc.",1155 elm street,manchester,NH,3101,800-331-1476,
+www.elevancehealth.com,"GA,NH",53759,"anthem health plans of new hampshire, inc.",1155 elm street,manchester,NH,03101,800-331-1476,
 www.amerihealth.com,NJ,60061,amerihealth insurance company of new jersey,"259 prospect plains road, building m",cranbury,NJ,08512-3706,609-662-2400,
 www.cloverhealth.com,"AL,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,MO,MS,NE,NJ,NM,NV,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,WA,WI,WV,WY",86371,clover insurance company,30 montgomery street,,,,201-432-2133,
 www.horizonblue.com,NJ,14690,horizon insurance company,3 penn plz e ste pp-15d,newark,NJ,07105-2248,973-466-5607,
@@ -732,8 +731,8 @@ www.deltadentalins.com,"NE,NE,KS,KS,NM,NM,WA,WI,WI,MD,IL,IL,ME,ME,CA,TX,TX,RI,GA
 www.highmark.com,"PA,PA",60147,"first priority life insurance company, inc.",19 north main street,wilkes barre,PA,18711,412-544-7000,232905083
 www.highmark.com,"WV,PA",71768,hm health insurance company,120 fifth avenue,pittsburgh,PA,15222,412-544-3673,541637426
 www.ibx.com,PA,93688,qcc insurance company,1901 market street,philadelphia,PA,19103-1480,215-241-2400,
-www.deltadentalpr.com,PR,47085,delta delta of p.r. inc.,metro office park 14 street 2 suite 200,guaynabo,PR,968,939-205-3300,
-www.altusdental.com,MA,52632,altus dental insurance co. inc.,10 charles street,providence,RI,2904,877-223-0577,
+www.deltadentalpr.com,PR,47085,delta delta of p.r. inc.,metro office park 14 street 2 suite 200,guaynabo,PR,00968,939-205-3300,
+www.altusdental.com,MA,52632,altus dental insurance co. inc.,10 charles street,providence,RI,02904,877-223-0577,
 www.humana.com,SC,16717,humana benefit plan of south carolina inc,"2 w. washington street, suite 1100",greenville,SC,29601,502-580-1000,
 www.wellmark.com,SD,60128,"wellmark of south dakota, inc.",1601 west madison street,,,,605-373-7200,
 www.bcbst.com,TN,65463,golden security insurance company,1 cameron hill circle,chattanooga,TN,37402-0001,423-535-5600,
@@ -771,7 +770,6 @@ www.healthplan.org,"WV,OH",60016,thp insurance company,1110 main street,wheeling
 www.nedelta.com,"ME,NH,VT",13646,red tree insurance company inc,,,,,,
 www.physiciansmutual.com,NE,80578,physicians mutual insurance company,2600 dodge st,omaha,NE,68131,402-633-1000,470270450
 www.vsp.com,"AL,AZ,CO,CT,DC,DE,IA,IN,KS,KY,LA,MA,ME,MI,MN,MS,MT,NC,ND,NE,NH,NJ,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VT,WI,WV",39616,vision service plan insurance company,3333 quality drive,,,,916-851-5000,
-www.vsp.com,"FL,GA,MO,NM",32395,vision service plan insurance company,3333 quality drive,,,,916-851-5000,
 www.bcbsok.com,TX,29718,ghs insurance company,300 e randolph street,chicago,IL,60601,312-653-6000,
 www.elevancehealth.com,"CA,CO,CT,GA,IN,KY,ME,MO,NH,NV,NY,OH,VA,WI",28207,"anthem insurance companies, inc.",220 virginia avenue,indianapolis,IN,46204-3709,317-432-6988,
 ,IN,27952,hoosier motor mutual insurance company,,,,,,
@@ -835,8 +833,8 @@ www.cigna.com,CT,95660,"cigna healthcare of connecticut, inc.",900 cottage grove
 www.cigna.com,FL,95136,"cigna healthcare of florida, inc.",2701 north rocky point drive,tampa,FL,33607,860-226-6000,592089259
 www.cigna.com,"GA,GA",96229,"cigna healthcare of georgia, inc.",two securities centre,atlanta,GA,30305,404-443-8800,581641057
 www.cigna.com,"IL,IL,IN",95602,"cigna healthcare of illinois, inc.","525 west monroe, suite 1650",chicago,IL,60661,860-226-6000,363385638
-www.cigna.com,"IL,KS,MO",95635,"cigna healthcare of st. louis, inc.",900 cottage grove road,bloomfield,CT,6002,860-226-6000,
-www.cigna.com,"MS,TN",95606,"cigna healthcare of tennessee, inc.",900 cottage grove road,bloomfield,CT,6002,860-226-5634,
+www.cigna.com,"IL,KS,MO",95635,"cigna healthcare of st. louis, inc.",900 cottage grove road,bloomfield,CT,06002,860-226-6000,
+www.cigna.com,"MS,TN",95606,"cigna healthcare of tennessee, inc.",900 cottage grove road,bloomfield,CT,06002,860-226-5634,
 www.cigna.com,"NC,NC",95132,"cigna healthcare of north carolina, inc.",701 corporate center drive,raleigh,NC,27607,860-226-6000,561479515
 www.cigna.com,NJ,95500,"cigna healthcare of new jersey, inc.",499 washington boulevard,jersey city,NJ,7310,860-226-6000,222720890
 www.cigna.com,"SC,SC",95708,"cigna healthcare of south carolina, inc.","4000 faber place drive, suite 220",charleston,SC,29405,860-226-6000,61185590
@@ -844,11 +842,11 @@ www.cigna.com,"TX,TX",95383,"cigna healthcare of texas, inc.",1640 dallas parkwa
 www.connecticare.com,CT,14913,connecticare benefits inc,175 scott swamp road,farmington,CT,06032-3124,860-674-5700,
 www.connecticare.com,CT,95675,"connecticare, inc.",175 scott swamp road,farmington,CT,6034,860-674-5700,61537522
 www.connecticare.com,MA,95299,"connecticare of massachusetts, inc.",175 scott swamp road,farmington,CT,6034,860-674-5700,61576788
-www.aetna.com,"CT,NH",95935,aetna health inc. (a connecticut corporation),151 farmington ave.,hartford,CT,6156,800-872-3862,
-www.aetna.com,ME,95517,aetna health inc. (a maine corporation),151 farmington avenue,hartford,CT,6156,800-872-3862,
-www.aetna.com,NY,95234,aetna health inc. (a new york corporation),151 farmington avenue,hartford,CT,6156,800-872-3862,
-www.oxfordhealth.com,CT,96798,"oxford health plans (ct), inc.",4 research drive,shelton,CT,6484,203-447-4500,
-www.oxfordhealth.com,"DE,NJ,OR,PA,RI",95506,"oxford health plans (nj), inc.","4 research drive, 5th floor",shelton,CT,6484,203-447-4500,
+www.aetna.com,"CT,NH",95935,aetna health inc. (a connecticut corporation),151 farmington ave.,hartford,CT,06156,800-872-3862,
+www.aetna.com,ME,95517,aetna health inc. (a maine corporation),151 farmington avenue,hartford,CT,06156,800-872-3862,
+www.aetna.com,NY,95234,aetna health inc. (a new york corporation),151 farmington avenue,hartford,CT,06156,800-872-3862,
+www.oxfordhealth.com,CT,96798,"oxford health plans (ct), inc.",4 research drive,shelton,CT,06484,203-447-4500,
+www.oxfordhealth.com,"DE,NJ,OR,PA,RI",95506,"oxford health plans (nj), inc.","4 research drive, 5th floor",shelton,CT,06484,203-447-4500,
 www.oxfordhealth.com,NY,95479,"oxford health plans (ny), inc.",4 research drive,shelton,CT,6484,203-447-4500,61181200
 www.unitedhealthcare.com,"NY,NY",95085,"unitedhealthcare of new york, inc.",77 water street,new york,NY,10005,203-447-4439,61172891
 www.carefirstchpdc.com,DC,14225,"trusted health plan (district of columbia), inc. d/b/a carefirst bcbs community health plan, dc",1100 new jersey avenue se suite 840,washington,DC,20003,202-821-1070,
@@ -994,17 +992,17 @@ vantagehealthplan.com,MS,16735,vantage health plan of mississippi inc,"130 desia
 www.bcbsma.com,MA,53228,"blue cross and blue shield of massachusetts, inc.","101 huntington avenue, suite 1300",boston,MA,2199,617-246-5791,41045815
 ,MA,15497,dsm massachusetts insurance company inc.,,,,,,
 www.deltamass.com,MA,52060,"dental service of massachusetts, inc.",465 medford street,boston,MA,2129,617-886-1818,46143185
-http://www.dentaquest.com,NJ,16647,dentaquest of new jersey llc,465 medford street,boston,MA,2129,617-886-1818,
+http://www.dentaquest.com,NJ,16647,dentaquest of new jersey llc,465 medford street,boston,MA,02129,617-886-1818,
 www.hphc.org,"CT,MA,ME",96911,"harvard pilgrim health care, inc.",one wellness way,canton,MA,02021-1166,781-263-6000,
 www.hphc.org,"MA,NH",96717,"harvard pilgrim health care of new england, inc.",one wellness way,canton,MA,02021-1166,781-263-6000,
 www.carepartnersct.com,CT,16307,"carepartners of connecticut, inc",1 wellness way,canton,MA,02021-1166,617-972-9400-84518,
 www.tuftshealthplan.com,"MA,RI",95688,"tufts associated health maintenance organization, inc.",1 wellness way,canton,MA,02021-1166,617-972-9400-84518,
 www.tuftshealthplan.com,"MA,RI",14131,"tufts health public plans, inc.",1 wellness way,canton,MA,02021-1166,617-972-9400-84518,
-www.bmchp.org,"MA,NH",13203,boston medical center health plan inc,"529 main street, suite 500",charlestown,MA,2129,617-748-6000,
+www.bmchp.org,"MA,NH",13203,boston medical center health plan inc,"529 main street, suite 500",charlestown,MA,02129,617-748-6000,
 www.hne.com,MA,95673,"health new england, inc.",one monarch place,springfield,MA,1144,413-787-4000,42864973
-www.devoted.com,AZ,16614,devoted health plan of arizona inc,221 crescent street suite 202,waltham,MA,2453,860-916-9120,
-www.devoted.com,FL,16358,"devoted health plan of florida, inc.",221 crescent street suite 202,waltham,MA,2453,860-916-9120,
-www.devoted.com,TX,16487,devoted health plan of texas inc,221 crescent street suite 202,waltham,MA,2453,860-916-9120,
+www.devoted.com,AZ,16614,devoted health plan of arizona inc,221 crescent street suite 202,waltham,MA,02453,860-916-9120,
+www.devoted.com,FL,16358,"devoted health plan of florida, inc.",221 crescent street suite 202,waltham,MA,02453,860-916-9120,
+www.devoted.com,TX,16487,devoted health plan of texas inc,221 crescent street suite 202,waltham,MA,02453,860-916-9120,
 www.sunlife.com\us,AZ,47708,"united dental care of arizona,  inc.",96 worcester street,,,,781-416-3184,
 www.sunlife.com/us,CO,52032,"united dental care of colorado, inc.",96 worcester street,,,,781-416-3184,
 www.sunlife.com/us,"KS,MO",47044,"united dental care of missouri,  inc.",96 worcester street,,,,781-416-3184,
@@ -1035,7 +1033,7 @@ www.carefirst.com,"MD,MD",47058,"carefirst of maryland, inc.",10455 mill run cir
 www.gdsmd.com,"DC,MD,PA,VA",95846,"group dental service of maryland, inc.","15400 callhoun drive, suite 300",rockville,MD,20855,240-286-3518,
 www.kp.org,"DC,MD,VA",95639,"kaiser foundation health plan of the mid-atlantic states, inc.",2101 east jefferson street,rockville,MD,20852,301-816-2424,
 www.healthoptions.org,"NH,NH,ME,ME",15077,maine community health options,po box 1121,lewiston,ME,4240,207-402-3330,453416923
-www.martinspoint.org,"ME,NH",15850,martins point generations advantage inc,331 veranda street,portland,ME,4103,207-774-5801,
+www.martinspoint.org,"ME,NH",15850,martins point generations advantage inc,331 veranda street,portland,ME,04103,207-774-5801,
 www.elevancehealth.com,ME,16774,amh health plans of maine inc,2 gannett drive,,,,866-583-6182,
 www.elevancehealth.com,ME,52618,"anthem health plans of maine, inc.",2 gannett drive,,,,866-583-6182,
 www.dencap.com,"MI,MI",52025,"dencap dental plans, inc.",45 e. milwaukee street,detroit,MI,48202,313-972-1400,382587320
@@ -1166,13 +1164,13 @@ www.nedelta.com,VT,53279,"delta dental plan of vermont, inc.",one delta drive,co
 www.nedelta.com,"ME,ME",14369,maine dental service corporation,po box 2002,concord,NH,3302,603-223-1000,10286541
 www.nedelta.com,NH,47079,delta dental plan of new hampshire,one delta drive,concord,NH,03302-2002,603-223-1000,
 www.elevancehealth.com,NH,95527,"matthew thornton health plan, inc.",3000 goffs falls road,manchester,NH,3111,800-331-1476,20494919
-www.hackensackmeridianhealh.org,NJ,16742,hackensack meridian health partners llc (organized delivery system),343 thornall street,edison,NJ,8837,844-888-4400,
-www.americhoice.com,NJ,95497,"americhoice of new jersey, inc.",170 wood avenue south 3rd floor,iselin,NJ,8830,732-623-1258,
+www.hackensackmeridianhealh.org,NJ,16742,hackensack meridian health partners llc (organized delivery system),343 thornall street,edison,NJ,08837,844-888-4400,
+www.americhoice.com,NJ,95497,"americhoice of new jersey, inc.",170 wood avenue south 3rd floor,iselin,NJ,08830,732-623-1258,
 www.cloverhealth.com,"NJ,TX",16347,clover hmo of new jersey inc,30 montgomery street,,,,201-432-2133,
 ,NJ,16714,healthier new jersey insurance company,,,,,,
 www.horizonblue.com,"NJ,NJ",55069,"horizon healthcare services, inc.",3 penn plaza east,newark,NJ,7105,973-466-5607,220999690
 www.horizonblue.com,"NJ,NJ",95529,"horizon healthcare of new jersey, inc.",3 penn plaza east,newark,NJ,7105,973-466-5607,222651245
-www.aetnabetterhealth.com,NJ,15611,aetna better health inc. (a new jersey corporation),"3 independence way, suite 400",princeton,NJ,8540,855-232-3596,
+www.aetnabetterhealth.com,NJ,15611,aetna better health inc. (a new jersey corporation),"3 independence way, suite 400",princeton,NJ,08540,855-232-3596,
 www.deltadentalnj.com,"NJ,NJ",55085,"delta dental of new jersey, inc.",1639 route 10,parsippany,NJ,7054,973-285-4205,221896118
 www.uhc.com,NM,13214,"unitedhealthcare of new mexico, inc.",303 roma ave,albuquerque,NM,87102,505-449-4131,
 www.molinahealthcare.com,"NM,NM",95739,"molina healthcare of new mexico, inc.","400 tijeras ave nw, suite 200",albuquerque,NM,87102,505-348-0410,850408506
@@ -1329,7 +1327,7 @@ www.greatplainsmedicareadvantage.com,NE,16151,good samaritan insurance plan of n
 www.greatplainsmedicareadvantage.com,SD,16153,good samaritan insurance plan of south dakota inc,"300 cherapa place, suite 201",,,,605-328-6868,
 www.dakotacare.com,SD,96598,south dakota state medical holding co. inc. dba dakotacare,5300 s broadband lane,,,,605-334-4000,
 www.optilegra.com,SD,16413,optilegra inc,1204 w golden eagle st,,,,877-970-3937,
-www.senderohealth.com,TX,14151,sendero health plans inc,"2028 e. ben white blvd, stuite 400",austin,TX,78741,5129788454,
+www.senderohealth.com,TX,14151,sendero health plans inc,"2028 e. ben white blvd, stuite 400",austin,TE,78741,5129788454,
 www.bcbst.com,MS,16708,shared health mississippi inc,1 cameron hill circle,chattanooga,TN,37402-0001,423-535-3865,
 www.bcbst.com,TN,54518,"bluecross blueshield of tennessee, inc.",1 cameron hill circle,chattanooga,TN,37402-0001,423-535-3865,
 www.bcbst.com,TN,15005,securitycare of tennessee inc,1 cameron hill circle,chattanooga,TN,37402-0001,423-535-3865,
@@ -1407,9 +1405,9 @@ www.molinahealthcare.com,VA,16043,molina healthcare of virginia llc,3829 gaskins
 www.deltadentalva.com,"VA,VA",55611,delta dental of virginia,4818 starkey road,roanoke,VA,24018,540-989-8000,540844477
 www.elevancehealth.com,ME,16553,amh health llc,4425 corporation lane,,,,757-473-2737,
 sentara.com,"VA,VA",95281,optima health plan,4417 corporation lane,virginia beach,VA,23462,757-552-7401,541283337
-www.vermontblueadvantage.com,VT,16793,vermont blue advantage inc,445 industrial lane,berlin,VT,5602,802-505-3449,
-www.bcbsvt.com,VT,53295,blue cross and blue shield of vermont,445 industrial lane,berlin,VT,5602,802-223-6131,
-www.bcbsvt.com,VT,95696,"the vermont health plan, llc",445 industrial lane,berlin,VT,5602,802-223-6131,
+www.vermontblueadvantage.com,VT,16793,vermont blue advantage inc,445 industrial lane,berlin,VT,05602,802-505-3449,
+www.bcbsvt.com,VT,53295,blue cross and blue shield of vermont,445 industrial lane,berlin,VT,05602,802-223-6131,
+www.bcbsvt.com,VT,95696,"the vermont health plan, llc",445 industrial lane,berlin,VT,05602,802-223-6131,
 www.molinahealthcare.com,"WA,WA",96270,"molina healthcare of washington, inc.","21540 30th drive se, suite 100",bothell,WA,98021,425-424-1100,911284790
 www.riverlinkhealth.com,OH,15499,riverlink health,33820 weyerhaeuser way s,,,,763-321-3631,
 www.soundpathhealth.com,WA,12909,soundpath health,33820 weyerhaeuser way s,,,,866-789-7747,
