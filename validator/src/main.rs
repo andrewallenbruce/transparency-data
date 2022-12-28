@@ -637,7 +637,9 @@ fn validate_record(
                     }
                 }
                 ColType::NaiveDate => {
-                    if NaiveDate::parse_from_str(field, "%Y-%m-%d").is_err() {
+                    if field == ""{
+                    }
+                    else if NaiveDate::parse_from_str(field, "%Y-%m-%d").is_err() {
                         return Err(format!("Invalid date format entry: \"{}\" specified in column \"{}\" on line {}.\n Please use YYYY-MM-DD format.\n", field, col.name, line))?;
                     }
                 }
