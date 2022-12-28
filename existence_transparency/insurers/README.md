@@ -77,7 +77,6 @@ This file is a flat file with the following schema:
 | **hios_issuer_id** | Health Insurance Oversight System Issuer ID | String | Five-digit int/string (not sure if it can lead with 0s) that identifies the issuer organization as assigned by Health Insurance Oversight System (HIOS). | Yes | 91450 |
 | **hios_plan_id** | Health Insurance Oversight System (HIOS) Rate and Benefits Information System ID for the Plan | String | Fourteen character string that identifies the plan as specified in RBIS, if applicable. | No |  |
 | **plan_name** | Marketing name for the plan | String | Name for plan | No |  |
-| **hpid** | Health plan identifier assigned to the plan. | String | [Health plan identifier](https://www.cms.gov/Regulations-and-Guidance/Administrative-Simplification/Unique-Identifier/HPID). | No |  |
 | **marketplace_type** | Marketplace type specifier | Enum("individual", "small group", "large group") | Enum specifying marketplace type on which plan is sold, if applicable. | No |  |
 | **hios_product_id** | HIOS product id for the plan. | String | Ten character string that identifies the product in HIOS, if applicable. | No |  |
 | **plan_type** | Type of plan. | Enum("hmo", "ppo", "epo", "pos", "dental", "indemnity", "other")| High level type of contract. | No |  |

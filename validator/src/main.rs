@@ -392,11 +392,6 @@ fn get_schema(schema_name: &str) -> Result<&[DataCol], Box<dyn Error>> {
                     col_type: ColType::Other,
                 },
                 DataCol {
-                    name: "hpid",
-                    required: false,
-                    col_type: ColType::Other,
-                },
-                DataCol {
                     name: "plan_name",
                     required: false,
                     col_type: ColType::Other,
