@@ -66,9 +66,20 @@ This file is a flat file with the following schema:
 <details>
 <summary>Plans </summary>
 
-Here plans refer to particular products sold by issuers that have a well-defined collection of benefits. Specifying a plan should uniquely
-specify the coordination of benefits, formulary, issuer, etc. Pricing for the plan will however depend on details of the consumer, such as exact
-geographic location, age, and other stats, so there are for example many premiums for  given plan.
+Plans refer to particular products sold by issuers that have a well-defined collection of benefits, as well as additional cost sharing
+rules attached to the products. Specifying a plan should uniquely specify the coordination of benefits, covered services, formulary, issuer, etc., and some aspects of cost sharing.
+Specifying a product should uniquel specify the coordination of benefits, covered services, formulary, issuer, etc., but **not** the cost sharing details.
+The total price payed by a consumer for a given plan will however still depend on details of the consumer, such as exact geographic location, age, and other stats;
+for example, a given plan typically has different premiums for people of different ages.
+
+To [quote](https://www.cms.gov/CCIIO/Resources/Training-Resources/Downloads/product-vs-plan-ppt.pdf) CMS,
+
+> A **product** is a discrete package of health insurance coverage benefits that are offered using a particular
+product network type (such as health maintenance organization, preferred provider organization, exclusive
+provider organization, point of service, or indemnity) within a service area.
+
+> **Plans**, with respect to a product, are the pairing of the health insurance coverage benefits under the product with a particular cost
+sharing structure, provider network, and service area that are offered to consumer.
 
 This file is a flat file with the following schema:
 
@@ -91,10 +102,10 @@ This file is a flat file with the following schema:
 **Note:**
 
 <details>
-<summary> Why not store this all in a sqlite database? </summary>
+<summary> Why not store this all in a sql database? </summary>
 <!-- TODO: Maintain sqlite DBs that get bi-directionally auto-synced with exported csvs via CI jobs. This will improve
 out of the box utility, while allowing accesible editing from all participants. -->
-The files below ought to be thought of as tables in a relational schema, and probably belong most naturally in a relational database.
+The files below ought to be thought of as tables in a relational schema, and belong most naturally in a relational database.
 In fact, this is how https://persius.org uses such data behind the scenes in our free tools, and the data here was initially populated as an export
 of a populated SQL DB. We maintain flat files here with foreign key constraints relaxed to mere implications just to facilitate accessible access (both read, and write) for those
 who aren't familiar with SQL, but who want to use or contribute to this data. Keeping this data up to date is going to constitute persistent work given current reporting standards,
