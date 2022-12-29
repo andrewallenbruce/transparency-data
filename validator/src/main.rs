@@ -392,11 +392,6 @@ fn get_schema(schema_name: &str) -> Result<&[DataCol], Box<dyn Error>> {
                     col_type: ColType::Other,
                 },
                 DataCol {
-                    name: "hpid",
-                    required: false,
-                    col_type: ColType::Other,
-                },
-                DataCol {
                     name: "plan_name",
                     required: false,
                     col_type: ColType::Other,
@@ -642,7 +637,9 @@ fn validate_record(
                     }
                 }
                 ColType::NaiveDate => {
-                    if NaiveDate::parse_from_str(field, "%Y-%m-%d").is_err() {
+                    if field == ""{
+                    }
+                    else if NaiveDate::parse_from_str(field, "%Y-%m-%d").is_err() {
                         return Err(format!("Invalid date format entry: \"{}\" specified in column \"{}\" on line {}.\n Please use YYYY-MM-DD format.\n", field, col.name, line))?;
                     }
                 }
